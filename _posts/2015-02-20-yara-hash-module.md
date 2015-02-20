@@ -1,9 +1,9 @@
 ---
 layout: post
+title: How to perform a hash-based search using YARA
 comments: true
 ---
 
-#How to perform a hash-based search using YARA#
 
 One of the many great features of Yara is its little-known hash module, allowing to search a path for a given set of MD5 hashes, which is very useful to identify malware hiding under obscure names.
 
