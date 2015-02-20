@@ -5,7 +5,7 @@ comments: true
 ---
 
 
-One of the many great features of Yara is its little-known hash module, allowing to search a path for a given set of MD5 hashes, which is very useful to identify malware hiding under obscure names.
+One of the many great features of Yara is its little-known hash module, which lets you search your sample library (or any other directory) for a given MD5 hash. Here's a simple way to do it:
 
 *rule file (save as "md5_match.yara"):*
 
