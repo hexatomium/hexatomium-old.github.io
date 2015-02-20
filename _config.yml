@@ -7,7 +7,7 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
+title:            HA
 tagline:          'A Jekyll theme'
 description:      Random thoughts... 
 url:              http://flatfly.github.io
