@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to perform a hash-based search using YARA
+title: Find files by MD5 using YARA
 comments: true
 ---
 
