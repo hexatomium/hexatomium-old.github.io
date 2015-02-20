@@ -4,35 +4,50 @@ title: Introducing Hyde
 comments: true
 ---
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+#How to perform a hash-based search using YARA#
 
-### Built on Poole
+One of the many great features of Yara is its little-known hash module, allowing to search a path for a given set of MD5 hashes, which is very useful to identify malware hiding under obscure names.
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
+*rule file (save as "md5_match.yara"):*
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+    import "hash" 
+    
+    rule REALNOTEPAD {
+    
+        meta:
+            description = "REAL NOTEPAD"
+    
+        strings:
+            $m0 = { 4D 5A } // wide ascii
+    
+        condition:
+            $m0 at 0   and 
+            filesize < 350KB and
+            hash.md5(0, filesize) == "e30299799c4ece3b53f4a7b8897a35b6"     
+    }
+	
+	
+Now use the following command to search the current path for hash:
 
-### Hyde features
+    yara -f md5_match.yara .
 
-In addition to the features of Poole, Hyde adds the following:
 
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
+But how to search for a whole set of hashes rather than just one? Well, it's just as simple:
 
-[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
-
-### Browser support
-
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+    import "hash" 
+    
+    rule MSFT_WHITELIST {
+    
+        meta:
+            description = "Genuine Microsoft"
+    
+        condition:
+            uint16(0) == 0x5A4D and
+            filesize < 1MB and
+            hash.md5(0, filesize) == "e30299799c4ece3b53f4a7b8897a35b6"   or  
+            hash.md5(0, filesize) == "897a35b6e30299799c4ece3b53f4a7b8"   or 
+            hash.md5(0, filesize) == "6462c8c3b51e302997897a35ba7b8846"   or 
+            hash.md5(0, filesize) == "e30f4a7b8897219799c4ece3b4ece377"   or 
+            hash.md5(0, filesize) == "9c4ece3b53f4a7b8897e3063379a35b6"   or  
+            hash.md5(0, filesize) == "a45f7fcc14b9b6462c8c3b51623c4301"     
+    }
