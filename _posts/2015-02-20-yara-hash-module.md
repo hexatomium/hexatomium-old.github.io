@@ -7,7 +7,7 @@ comments: true
 
 A little-known feature of Yara is its powerful hash module, which you can easily use to search your sample library (or any other directory) for a given MD5 hash. Here's how:
 
-    // *rule file (save as "md5_match.yara"):*
+    // rule file (save as "md5_match.yara")
 
     import "hash" 
     
