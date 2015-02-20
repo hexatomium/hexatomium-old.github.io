@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Introducing Hyde
 comments: true
 ---
 
