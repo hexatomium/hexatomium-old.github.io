@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Find files by MD5 using YARA
+title: How to find files by MD5 using YARA
 comments: true
 ---
 
