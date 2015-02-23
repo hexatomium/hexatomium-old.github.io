@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            HA
 tagline:          'A Jekyll theme'
-description:      Random secure thoughts... 
+description:      Pseudorandom secure thoughts... 
 url:              http://flatfly.github.io
 baseurl:          /
 
