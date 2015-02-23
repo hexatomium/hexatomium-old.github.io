@@ -5,7 +5,7 @@ comments: true
 ---
 
 
-This is an optimized SHA1 scanner that will search your system drive for Komodia-related samples, including the infamous Superfish MITM-capable adware.
+This is an optimized build of SHA1FastFinder that will search your system drive for Komodia-related samples, including the infamous Superfish MITM-capable adware.
 
 <IMG src=http://i.imgur.com/Dk5yxYI.png>
 
@@ -23,8 +23,8 @@ Its internal ruleset includes the below 10 SHA1 fingerprints as first documented
     * 0a9f994a54eaae64aba4dd391cb0efe4abcac227
     * e89c586019e259a4796c26ff672e3fe5d56870da
 
-source: https://www.facebook.com/notes/protect-the-graph/windows-ssl-interception-gone-wild/1570074729899339
+Source: https://www.facebook.com/notes/protect-the-graph/windows-ssl-interception-gone-wild/1570074729899339
 
-
+<A href=http://trax.x10.mx/files/komodia_sha1finder.exe>Download</A> (27,136 bytes)
 
 
