@@ -6,6 +6,10 @@ comments: true
 
 
 This is an optimized SHA1 scanner that will search your system drive for Komodia-related samples, including the infamous Superfish MITM-capable adware.
+
+[img]http://i.imgur.com/Dk5yxYI.png[/img]
+
+
 Its internal ruleset includes the below 10 SHA1 fingerprints as first documented by Matt Richard of the Facebook Security Team.
 
     * 0cf1ed0e88761ddb001495cd2316e7388a5e396e
