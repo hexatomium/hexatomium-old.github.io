@@ -25,6 +25,6 @@ Its internal ruleset includes the below 10 SHA1 fingerprints as first documented
 
 Source: https://www.facebook.com/notes/protect-the-graph/windows-ssl-interception-gone-wild/1570074729899339
 
-<A href=http://trax.x10.mx/dl_k.php?appname=komodia_sha1finder.exe>Download</A> (27,136 bytes)
+<A href=http://trax.x10.mx/>Download - 27 KB</A> (Link offline)
 
 
