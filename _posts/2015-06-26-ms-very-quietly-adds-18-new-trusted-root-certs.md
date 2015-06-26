@@ -1,6 +1,12 @@
-0f36385b811a25c39b314e83cae9346670cc74b4: GDCA TrustAUTH R5 ROOT
-1b3d1114ea7a0f9558544195bf6b2582ab40ce9a: S-Trust Universal Root CA
-1f3f1486b531882802e87b624d420295a0fc721a: Notarius Root Certificate Authority
+---
+layout: post
+title: ms-very-quietly-adds-18-new-trusted-root-certs
+comments: true
+---
+
+* 0f36385b811a25c39b314e83cae9346670cc74b4: GDCA TrustAUTH R5 ROOT
+* 1b3d1114ea7a0f9558544195bf6b2582ab40ce9a: S-Trust Universal Root CA
+* 1f3f1486b531882802e87b624d420295a0fc721a: Notarius Root Certificate Authority
 22fdd0b7fda24e0dac492ca0aca67b6a1fe3f766: Certplus Root CA G1
 2c8affce966430ba04c04f81dd4b49c71b5b81a0: RXC-R2
 32f442093b36d7031b75ca4daddcb327faa02b9c: Swedish Government Root Authority v2
