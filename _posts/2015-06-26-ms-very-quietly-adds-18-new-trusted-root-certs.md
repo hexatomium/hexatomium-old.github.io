@@ -28,3 +28,5 @@ Using my good old <A HREF=http://www.wilderssecurity.com/threads/rcc-check-your-
      fbeddc9065b7272037bc550c9c56debbf27894e1: WoSign G2
  
 I will update this post should new information surface.
+
+<A href=https://twitter.com/hexatomium>Follow</A> @hexatomium on Twitter
