@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft quietly pushes 17 new trusted root certificates
+title: Microsoft quietly pushes <s>18</s>17 new trusted root certificates
 comments: true
 ---
 
@@ -29,7 +29,7 @@ Using my good old <A HREF=http://www.wilderssecurity.com/threads/rcc-check-your-
 I will update this post should new information surface.
 
 <a href="http://twitter.com/share" class="twitter-share-button" 
-data-url="http://hexatomium.github.io/2015/06/26/ms-very-quietly-adds-18-new-trusted-root-certs/" data-text="MS quietly pushes 18 root certificates"  data-count="horizontal">Tweet</a>
+data-url="http://hexatomium.github.io/2015/06/26/ms-very-quietly-adds-18-new-trusted-root-certs/" data-text="MS quietly pushes 17 root certificates"  data-count="horizontal">Tweet</a>
 <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 
 <A href=https://twitter.com/hexatomium>Follow</A> @hexatomium 
