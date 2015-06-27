@@ -29,11 +29,11 @@ Using my good old <A HREF=http://www.wilderssecurity.com/threads/rcc-check-your-
  
 I will update this post should new information surface.
 
-<a href="http://twitter.com/share" class="twitter-share-button" 
+
+
+<A href=https://twitter.com/hexatomium>Follow</A> @hexatomium on Twitter - <a href="http://twitter.com/share" class="twitter-share-button" 
 data-url="http://hexatomium.github.io/2015/06/26/ms-very-quietly-adds-18-new-trusted-root-certs/" data-text="MS quietly pushes 18 root certificates"  data-count="horizontal">Tweet</a>
 <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-
-<A href=https://twitter.com/hexatomium>Follow</A> @hexatomium on Twitter
 
 View my <A HREF=https://be.linkedin.com/pub/firas-salem/0/51a/742>LinkedIn</A> page
 
