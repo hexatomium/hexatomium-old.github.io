@@ -4,9 +4,9 @@ title: ms-very-quietly-adds-18-new-trusted-root-certs
 comments: true
 ---
 
-Earlier this month, Microsoft has started silently pushing the following new root certificates to all supported Windows systems. The problem is, they did not announce or document this change in any KB article or advisory. Even worse: not even their official MCP (Microsoft Certificate Program) member list makes no mention of these changes.  As some of these new certificates relate to rather 'brutal' regimes (China, Tunisia), or completely unknown authorities (RXC-R2? Now what the hell is that? Both the name and thumbprint are totally unknown on the Web), color me very, very suspicious. 
+Earlier this month, Microsoft has started silently pushing the following new root certificates to all supported Windows systems. What is concerning is that they did not announce this change in any KB article or advisory. Even worse: not even their official MCP (Microsoft Certificate Program) member list makes no mention of these changes. Are they hoping to pull this off without being noticed, or is it just incompetence? As some of these new certificates relate to rather 'brutal' regimes (China, Tunisia), or completely unknown authorities (RXC-R2? Now what the hell is that? Both the name and thumbprint are totally unknown on the Web), color me very, very suspicious. 
 
-Using my faithful <A HREF=http://www.wilderssecurity.com/threads/rcc-check-your-systems-trusted-root-certificate-store.373819/>RCC</A> (a root certificate auditing scanner), I quickly identified the following certificates: 
+Using my good old <A HREF=http://www.wilderssecurity.com/threads/rcc-check-your-systems-trusted-root-certificate-store.373819/>RCC</A> scanner (a root certificate auditing tool), I quickly identified the following certificates: 
 
     * 0f36385b811a25c39b314e83cae9346670cc74b4: GDCA TrustAUTH R5 ROOT
     * 1b3d1114ea7a0f9558544195bf6b2582ab40ce9a: S-Trust Universal Root CA
