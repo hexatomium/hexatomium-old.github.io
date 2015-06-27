@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to scan your Windows system for Komodia malware
+title: Scan your Windows system for Komodia malware
 comments: true
 ---
 
