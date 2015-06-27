@@ -6,7 +6,7 @@ comments: true
 
 Earlier this month, Microsoft has quietly started pushing a bunch of new root certificates to all supported Windows systems. What is concerning is that they did not announce this change in any KB article or advisory, and the security community doesn't seem to have noticed this so far. Even the official Microsoft Certificate Program member list makes no mention of these changes whatsoever. Are they really hoping to pull this off, or is it just incompetence? As some of these new certificates relate to rather 'brutal' regimes, or completely unknown authorities (RXC-R2? Now what the hell is that for a name? Both the name and thumbprint are completely unknown on the Web at the time of this writing), color me very suspicious. 
 
-Using my good old <A HREF=http://www.wilderssecurity.com/threads/rcc-check-your-systems-trusted-root-certificate-store.373819/>RCC</A> scanner (a root certificate auditing tool), I quickly identified the following certificates: 
+Using my good old <A HREF=http://www.wilderssecurity.com/threads/rcc-check-your-systems-trusted-root-certificate-store.373819/>RCC</A> scanner (a root certificate auditing tool), I quickly identified the following certificates as new: 
 
      SHA1                                      NAME
      0f36385b811a25c39b314e83cae9346670cc74b4: GDCA TrustAUTH R5 ROOT
