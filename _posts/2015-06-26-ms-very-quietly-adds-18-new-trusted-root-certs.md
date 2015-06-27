@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ms-very-quietly-adds-18-new-trusted-root-certs
+title: Microsoft quietly pushes 18 new trusted root certificates
 comments: true
 ---
 
