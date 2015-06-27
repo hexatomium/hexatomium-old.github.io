@@ -26,3 +26,4 @@ Using my faithful <A HREF=http://www.wilderssecurity.com/threads/rcc-check-your-
     * d27ad2beed94c0a13cc72521ea5d71be8119f32b: WoSign ECC
     * fbeddc9065b7272037bc550c9c56debbf27894e1: WoSign G2
  
+I will update this post should new information surface.
