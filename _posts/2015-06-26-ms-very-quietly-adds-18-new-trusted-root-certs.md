@@ -37,6 +37,6 @@ data-url="http://hexatomium.github.io/2015/06/26/ms-very-quietly-adds-18-new-tru
 
 <A href=https://twitter.com/hexatomium>Follow</A> @hexatomium 
 
-View my <A HREF=https://be.linkedin.com/pub/firas-salem/0/51a/742>LinkedIn</A> page
+View my <A HREF=https://www.linkedin.com/profile/view?id=1283234>LinkedIn</A> page
 
 
