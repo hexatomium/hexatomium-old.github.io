@@ -4,7 +4,9 @@ title: ms-very-quietly-adds-18-new-trusted-root-certs
 comments: true
 ---
 
-What the hell, Microsoft?
+What the frigging hell, Microsoft?
+
+Earlier this month Microsoft has started silently pushing the following new root certificates to all supported Windows systems. The problem is, they did not announce or document this change in any KB article or advisory. Even worse: not even their official MCP member list makes no mention of these changes.  As some of these certificates look shady or relate to completely unknown authorities, color me extremely suspicious. 
 
    * 0f36385b811a25c39b314e83cae9346670cc74b4: GDCA TrustAUTH R5 ROOT
    * 1b3d1114ea7a0f9558544195bf6b2582ab40ce9a: S-Trust Universal Root CA
@@ -23,3 +25,11 @@ What the hell, Microsoft?
    * a2b86b5a68d92819d9ce5dd6d7969a4968e11991: CCA India 2014
    * d27ad2beed94c0a13cc72521ea5d71be8119f32b: WoSign ECC
    * fbeddc9065b7272037bc550c9c56debbf27894e1: WoSign G2
+   * 
+   
+
+Its internal ruleset includes the below 10 SHA1 fingerprints as first documented by Matt Richard of the Facebook Security Team.
+
+    * 0cf1ed0e88761ddb001495cd2316e7388a5e396e
+    * 473d991245716230f7c45aec8ce8583eab89900b
+    * fe2824a41dc206078754cc3f8b51904b27e7f725
