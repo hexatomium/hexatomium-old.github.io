@@ -31,7 +31,7 @@ I will update this post should new information surface.
 
 
 
-<A href=https://twitter.com/hexatomium>Follow</A> @hexatomium on Twitter - <a href="http://twitter.com/share" class="twitter-share-button" 
+<A href=https://twitter.com/hexatomium>Follow</A> @hexatomium <a href="http://twitter.com/share" class="twitter-share-button" 
 data-url="http://hexatomium.github.io/2015/06/26/ms-very-quietly-adds-18-new-trusted-root-certs/" data-text="MS quietly pushes 18 root certificates"  data-count="horizontal">Tweet</a>
 <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 
