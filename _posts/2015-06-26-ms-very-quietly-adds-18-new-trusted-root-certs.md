@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft quietly pushes <s>18</s>17 new trusted root certificates
+title: Microsoft quietly pushes 17 new trusted root certificates
 comments: true
 ---
 
@@ -32,8 +32,8 @@ I will update this post should new information surface.
 data-url="http://hexatomium.github.io/2015/06/26/ms-very-quietly-adds-18-new-trusted-root-certs/" data-text="MS quietly pushes 17 root certificates"  data-count="horizontal">Tweet</a>
 <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 
-<A href=https://twitter.com/hexatomium>Follow</A> @hexatomium (Firas Salem)
+<A href=https://twitter.com/hexatomium>Follow</A> @hexatomium
 
-View my <A HREF=https://www.linkedin.com/profile/view?id=1283234>LinkedIn</A> page
+View my <A HREF=https://www.linkedin.com/profile/view?id=1283234>LinkedIn</A> page (Firas Salem)
 
 
