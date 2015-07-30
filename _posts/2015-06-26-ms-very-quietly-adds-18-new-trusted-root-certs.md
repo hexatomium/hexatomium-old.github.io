@@ -26,7 +26,9 @@ Using my good old <A HREF=http://www.wilderssecurity.com/threads/rcc-check-your-
     d27ad2beed94c0a13cc72521ea5d71be8119f32b   WoSign ECC                     CN
     fbeddc9065b7272037bc550c9c56debbf27894e1   WoSign G2                      CN
 
-I will update this post should new information surface.
+
+**Update** 30-Jul-2015: Microsoft confirms the changes in this new <a href=Microsoft Trusted Root Certificate Program: Participants : http://social.technet.microsoft.com/wiki/contents/articles/31634.microsoft-trusted-root-certificate-program-participants.aspx>TechNet page</a>. 
+  
 
 <a href="http://twitter.com/share" class="twitter-share-button" 
 data-url="http://hexatomium.github.io/2015/06/26/ms-very-quietly-adds-18-new-trusted-root-certs/" data-text="MS quietly pushes 17 root certificates"  data-count="horizontal">Tweet</a>
