@@ -6,7 +6,7 @@ comments: true
 
 Did you know? The Windows Certificate Trust List (aka CTL) is the master source that determines all the root certs your system ultimately trusts by default. In contrast, good old certmgr.msc only shows a much smaller subset of that list, which it proudly claims to be your system's "Trusted Root Certification Authorities". The real deal, though, is stored behind the scenes, in an obscure format, and Windows provides no GUI to view any information about it.
 
-Starting with Windows Vista, a new AutoUpdate mechanism was added allowing these trusted root certificates to be invisibly downloaded on first use. 
+Starting with Windows Vista, a new AutoUpdate mechanism was added, allowing these trusted root certificates to be invisibly downloaded on first use. 
 
 Why does this matter? Because the incomplete information shown by Windows leads many people (including some security professionals) to believe that Windows trusts only a dozen or two root certificates out of the box, rather than hundreds. 
 
@@ -16,6 +16,7 @@ Here's a simple test:
     and notice the lack of a root called "OpenTrust Root CA G1" 
      
  2. Open IE or Chrome and navigate to https://certplusrootcag1-test.opentrust.com/ 
+
     Good, your browser could establish a trusted SSL connection!
 
  3. If you examine the SSL cert of that server, what do you notice?
