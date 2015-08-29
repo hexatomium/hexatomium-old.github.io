@@ -38,9 +38,9 @@ system's CTL. I made this as I simply could find no other way for the end-user t
 
 
 
-<a href="http://twitter.com/share" class="twitter-share-button" 
+<!-- <a href="http://twitter.com/share" class="twitter-share-button" 
 data-url="http://hexatomium.github.io/2015/06/26/ms-very-quietly-adds-18-new-trusted-root-certs/" data-text="MS quietly pushes 17 root certificates"  data-count="horizontal">Tweet</a>
-<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>  -->
 
 <A href=https://twitter.com/hexatomium>Follow</A> @hexatomium
 
