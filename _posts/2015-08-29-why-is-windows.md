@@ -29,12 +29,9 @@ Here's a simple test:
     In fact, there's no GUI view anywhere in the OS that shows any detail on the CTL. 
   
 
-<A href=http://trax.x10.mx/apps.html>CTLInfo</A>
 
-CTLInfo is the result of a few sleepless nights spent understanding and reverse engineering 
-some of the CTL obscure format. (If someone knows where to find detailed specs on that format, 
-I'd love to hear from you!) It is a very small tool showing some key information about your 
-system's CTL. I made this as I just could find no other straightforward way to get this sort of information.
+<A href=http://trax.x10.mx/apps.html>CTLInfo</A> is the result of a few sleepless nights spent understanding and reverse engineering some of the CTL obscure format. (If someone knows where to find detailed specs on that format, 
+I'd love to hear from you!) It is a very small tool showing some key information about your system's CTL. I made this as I just could find no other straightforward way to get this sort of information.
 
 <img style="max-width: auto;" src=http://i.imgur.com/Ur2mBOT.png>
 
