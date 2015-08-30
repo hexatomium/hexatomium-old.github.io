@@ -36,7 +36,7 @@ some of the CTL obscure format. (If someone knows where to find detailed specs o
 I'd love to hear from you!) It is a very small tool showing some key information about your 
 system's CTL. I made this as I just could find no other straightforward way to get this sort of information.
 
-<img src=http://i.imgur.com/Ur2mBOT.png>
+<img style="max-width: none;" src=http://i.imgur.com/Ur2mBOT.png>
 
 <!-- <a href="http://twitter.com/share" class="twitter-share-button" 
 data-url="http://hexatomium.github.io/2015/06/26/ms-very-quietly-adds-18-new-trusted-root-certs/" data-text="MS quietly pushes 17 root certificates"  data-count="horizontal">Tweet</a>
