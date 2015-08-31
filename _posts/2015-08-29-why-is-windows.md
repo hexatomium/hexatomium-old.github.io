@@ -13,16 +13,16 @@ Why does this matter? Because the incomplete information shown by Windows leads 
 Here's a simple test:
 
  1. Open certmgr.msc, navigate to "Trusted Root Certification Authorities",  
-    and notice the lack of a root called "OpenTrust Root CA G1" 
+    and notice the lack of a root called "OpenTrust Root CA G3" 
      
- 2. Open IE or Chrome and navigate to https://certplusrootcag1-test.opentrust.com/ 
+ 2. Open IE or Chrome and navigate to https://opentrustrootcag3-test.opentrust.com/ 
 
     Good, your browser could establish a trusted SSL connection!
 
  3. If you examine the SSL cert of that server, what do you notice?
-    It's signed by root authority "OpenTrust Root CA G1", which WAS not in your store... 
+    It's signed by root authority "OpenTrust Root CA G3", which WAS not in your store... 
 
- 4. Open certmgr.msc again: now "OpenTrust Root CA G1" IS there and was added without any prompts. 
+ 4. Open certmgr.msc again: now "OpenTrust Root CA G3" IS there and was added without any prompts. 
     Why? Because your system already trusted it via its CTL. 
 
  5. Bottom line? Certmgr.msc is not showing the whole picture. 
@@ -30,8 +30,8 @@ Here's a simple test:
   
 
 
-<A href=http://trax.x10.mx/apps.html>CTLInfo</A> is the result of a few sleepless nights spent understanding and reverse engineering some of the CTL obscure format. (If someone knows where to find detailed specs on that format, 
-I'd love to hear from you!) It is a very small tool showing some key information about your system's CTL. I made this as I just could find no other straightforward way to get this sort of information.
+<A href=http://trax.x10.mx/apps.html>CTLInfo</A> is the result of a couple sleepless nights spent researching and reversing  some of the CTL obscure format. (If someone knows where to find detailed specs on that format, I'd love to hear from you!) 
+It is a very small tool showing some key information about your system's CTL. I made this as I just could find no other straightforward way to get this sort of information, which can be useful to system or network administrators.
 
 <img style="max-width: auto;" src=http://i.imgur.com/Ur2mBOT.png>
 
