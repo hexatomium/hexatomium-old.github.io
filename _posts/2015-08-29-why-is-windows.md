@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why is Windows lying about what root certificates it trusts?
+title: Why is Windows so misleading about what root certificates it trusts?
 comments: true
 ---
 
