@@ -1,7 +1,10 @@
-Here's a fun little beast: This tiny 3634-byte file can both run as a Windows 32-bit executable and an HTML page.   
+Here's a fun little beast: Mzuck32 is a tiny 3634-byte file that can be opened both as a valid Windows executable and a viewable HTML file (with an image embedded) just by renaming its extension. :-)   
 
      Facebook theme :) 
      Tested on Windows 8.1 
      For extra geekiness MD5 hash is digits-only ;)
+     
+<A href=http://trax.x10.mx/mzuck32.zip>Download</A>
 
-http://trax.x10.mx/mzuck32.htm
+     Size (bytes, unzipped): 3634
+     MD5: 11154659197220219689725940689118
