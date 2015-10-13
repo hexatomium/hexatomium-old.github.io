@@ -26,7 +26,7 @@ Coming up next: A web page / C64 executable hybrid ;)
 
 
 <a href="http://twitter.com/share" class="twitter-share-button" 
-data-url="http://hexatomium.github.io/2015/10/13/polyglots-ftw/" data-text="MZuck32 - A valid PE/HTML hybrid file"  data-count="horizontal">Tweet</a>
+data-url="http://hexatomium.github.io/2015/10/13/polyglots-ftw/" data-text="MZuck32 - A tiny PE/HTML polyglot file"  data-count="horizontal">Tweet</a>
 <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 
 
