@@ -22,7 +22,7 @@ Features:
      
      (Tested on Windows 8.1 - should work on other versions too)
      
-Coming up next: A web page / C64 executable hybrid ;)
+Coming up next: A Windows/C64 hybrid ;)
 
 
 <a href="http://twitter.com/share" class="twitter-share-button" 
