@@ -2,6 +2,7 @@
 layout: post
 title: Scan your Windows system for Komodia malware
 comments: true
+draft: true
 ---
 
 
