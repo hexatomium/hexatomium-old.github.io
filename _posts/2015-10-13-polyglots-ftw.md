@@ -5,7 +5,7 @@ comments: true
 ---
 
 In the binary oddity department, here's a funny little corkami-style beast: MZuck32 is a tiny (3634-byte) file that 
-can be opened both as a valid Windows executable and a viewable web page (with an image embedded) just by switching its extension between EXE or HTM(L). :-)   
+can be opened both as a valid Windows executable and a viewable web page (with an image embedded) just by switching its extension between EXE and HTM(L). :-)   
 
 <img src=http://i.imgur.com/CGz3AnT.png>
 
@@ -15,7 +15,7 @@ Features:
   - Valid Win x86 PE
   - Viewable HTML+SVG page
   - A polyglot tribute to Facebook (what?) :) 
-  - For extra geekiness, MD5 hash is digits-only ;)
+  - For extra geekiness, MD5 hash is digits-only
      
 <A href=http://trax.x10.mx/mzuck32.zip>Download</A>
 
