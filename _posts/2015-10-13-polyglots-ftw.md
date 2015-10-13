@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mzuck32: A PE/HTML Hybrid File
+title: Mzuck32 - A PE/HTML Hybrid File
 comments: true
 ---
 
@@ -18,6 +18,7 @@ Features:
 
      Size (bytes, unzipped): 3634
      MD5: 11154659197220219689725940689118
-     (Tested on Windows 8.1 / 32 bits - let me know if it fails on other versions)
+     
+     (Tested on Windows 8.1 / 32 bits - but it should work on other versions too)
      
 Coming up next: A web page / C64 executable hybrid ;)
