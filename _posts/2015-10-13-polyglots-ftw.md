@@ -9,10 +9,10 @@ can be opened both as a valid Windows executable and a viewable web page (with a
 
 
 Features:
-  * Valid Win x86 PE
-  * Viewable HTML+SVG page
-  * Tribute to Facebook (what?) :) 
-  * For extra geekiness, MD5 hash is digits-only ;)
+  *Valid Win x86 PE
+  *Viewable HTML+SVG page
+  *Tribute to Facebook (what?) :) 
+  *For extra geekiness, MD5 hash is digits-only ;)
      
 <A href=http://trax.x10.mx/mzuck32.zip>Download</A>
 
