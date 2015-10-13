@@ -23,3 +23,13 @@ Features:
      (Tested on Windows 8.1 / 32 bits - but it should work on other versions too)
      
 Coming up next: A web page / C64 executable hybrid ;)
+
+
+<a href="http://twitter.com/share" class="twitter-share-button" 
+data-url="http://hexatomium.github.io/2015/10/13/polyglots-ftw/" data-text="MZuck32 - A valid PE/HTML hybrid file"  data-count="horizontal">Tweet</a>
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+
+
+<A href=https://twitter.com/hexatomium>Follow</A> @hexatomium
+
+View my <A HREF=https://www.linkedin.com/profile/view?id=1283234>LinkedIn</A> page (Firas Salem)
