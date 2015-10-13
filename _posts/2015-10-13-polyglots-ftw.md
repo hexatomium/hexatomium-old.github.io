@@ -8,6 +8,8 @@ In the binary oddity department, here's a funny little corkami-style beast: MZuc
 can be opened both as a valid Windows executable and a viewable web page (with an image embedded) just by switching its extension between EXE or HTM(L). :-)   
 
 <img align=right src=http://i.imgur.com/CGz3AnT.png>
+
+
 Features:
 
   - Valid Win x86 PE
