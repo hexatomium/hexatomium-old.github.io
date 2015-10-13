@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mzuck32: An HTML/PE Hybrid File
+title: Mzuck32: A PE/HTML Hybrid File
 comments: true
 ---
 
