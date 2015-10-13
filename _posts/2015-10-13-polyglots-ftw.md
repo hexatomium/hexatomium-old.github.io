@@ -4,7 +4,7 @@ title: MZuck32 - A PE/HTML Hybrid File
 comments: true
 ---
 
-In the binary oddity department, here's a funny little corkami-style beast: Mzuck32 is a tiny (3634-byte) file that 
+In the binary oddity department, here's a funny little corkami-style beast: MZuck32 is a tiny (3634-byte) file that 
 can be opened both as a valid Windows executable and a viewable web page (with an image embedded) just by switching its extension between EXE or HTM(L). :-)   
 
 
