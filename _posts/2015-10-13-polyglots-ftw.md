@@ -12,7 +12,7 @@ Features:
 
   - Valid Win x86 PE
   - Viewable HTML+SVG page
-  - Tribute to Facebook (what?) :) 
+  - A polyglot tribute to Facebook (what?) :) 
   - For extra geekiness, MD5 hash is digits-only ;)
      
 <A href=http://trax.x10.mx/mzuck32.zip>Download</A>
