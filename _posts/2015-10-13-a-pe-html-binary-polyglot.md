@@ -1,4 +1,4 @@
-Here's a fun little beast: Mzuck32 is a tiny 3634-byte file that can be opened both as a valid Windows executable and a viewable HTML file (with an image embedded) just by renaming its extension. :-)   
+Here's a fun little beast for binary polyglot fans: Mzuck32 is a tiny 3634-byte file that can be opened both as a valid Windows executable and a viewable HTML file (with an image embedded) just by renaming its extension. :-)   
 
      Facebook theme :) 
      Tested on Windows 8.1 
