@@ -13,7 +13,7 @@ can be opened both as a valid Windows executable and a viewable web page (with a
 Features:
 
   - Valid Win x86 PE
-  - Viewable HTML+SVG page
+  - Valid HTML+SVG page
   - A polyglot tribute to Facebook (what?) :) 
   - For extra geekiness, MD5 hash is digits-only
      
