@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conway Polyglot: Same file plays Game of Life both on a C64 or in a browser  
+title: Conway's Polyglot: Same file plays Game of Life both on a C64 or in a browser  
 comments: true
 ---
 
@@ -13,9 +13,9 @@ However, just rename the file extension to .PRG and it's ready to run on a C64!
 For more info on binary polyglots: google "corkami".
 
 Credits
- c64 CGoL: ruk 
- js  CGoL: Daniel Bali 
- binary polyglot assembly: FS1 
+     c64 CGoL: ruk 
+     js  CGoL: Daniel Bali 
+     binary polyglot assembly: FS1 
  
 <img src=http://i.imgur.com/CGz3AnT.png>
 
