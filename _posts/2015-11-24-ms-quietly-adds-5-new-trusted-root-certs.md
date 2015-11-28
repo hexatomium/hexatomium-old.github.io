@@ -4,7 +4,7 @@ title: Microsoft quietly pushes 5 additional root certificates
 comments: true
 ---
 
-Again, Microsoft just added 5 new and undocumented root certs to the Windows CTL. And again, without communicating about it. I still fail to understand why their <A href=http://download.microsoft.com/download/1/5/7/157B29AB-F890-464A-995A-C87945B28E5A/Windows%20Root%20Certificate%20Program%20Members%20-%20Sept%202014.pdf>official list</a> is now out of date by more than a year, while Apple, Mozilla and Google all document the process in a much more transparent, and timely way? 
+Again, Microsoft just added 5 new and undocumented root certs to the Windows CTL. And again, without communicating about it. I still fail to understand why their <A href=http://download.microsoft.com/download/1/5/7/157B29AB-F890-464A-995A-C87945B28E5A/Windows%20Root%20Certificate%20Program%20Members%20-%20Sept%202014.pdf>official list</a> is now out of date by more than a year, while Apple, Mozilla and Google all document the changes in a much more transparent and timely way. 
 
 Anyway, here are the new kids on the block. If you are running any supported version of Windows, you're trusting them now (provided you already received the November 20 automatic update). 
 
