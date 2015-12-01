@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            HA
 tagline:          '@hexatomium blog'
-description:      Just some pseudorandom, mildly secure thoughts... 
+description:      Rambling thoughts about binary rainbows 
 url:              http://flatfly.github.io
 baseurl:          /
 
