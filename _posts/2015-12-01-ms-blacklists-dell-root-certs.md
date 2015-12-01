@@ -17,5 +17,7 @@ data-url="http://hexatomium.github.io/2015/12/01/ms-blacklists-dell-root-certs/"
 
 <A href=https://twitter.com/hexatomium>Follow</A> @hexatomium
 
-View my <A HREF=https://www.linkedin.com/profile/view?id=1283234>LinkedIn</A> page (Firas Salem)
+Some of my <a href=http://trax.x10.mx/apps.html>Windows apps</a>
+
+<A HREF=https://www.linkedin.com/profile/view?id=1283234>LinkedIn</A> profile (Firas Salem)
 
