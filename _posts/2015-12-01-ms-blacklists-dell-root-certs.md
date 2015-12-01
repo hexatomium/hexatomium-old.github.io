@@ -4,9 +4,8 @@ title: Microsoft moves to blacklist Dell's root certificates in its Untrusted CT
 comments: true
 ---
 
-Unless you've been living in a cave for the last few days, you have probably heard of Dell's <A href=http://www.theregister.co.uk/2015/11/23/dude_youre_getting_pwned/>user-pwning root certificate saga</a>. 
-Meanwhile Dell responded by releasing an emergency fix, and now Microsoft just joined the damage-control effort by pushing a global CTL update to blacklist the 2 sinful certificates.  
-Especially as it was so easy to create digitally signed malware using those certs.
+Unless you've spent the last few days in a cave, you have probably heard of Dell's <A href=http://www.theregister.co.uk/2015/11/23/dude_youre_getting_pwned/>user-pwning root certificate saga</a>. 
+Meanwhile Dell responded by releasing an <a href=http://en.community.dell.com/dell-blogs/direct2dell/b/direct2dell/archive/2015/11/23/response-to-concerns-regarding-edellroot-certificate>emergency fix</a>, and Microsoft just joined the damage-control effort by pushing a global CTL update to blacklist the 2 sinful certificates.  Good thing, especially as reports of malware code-signed using those certs have surfaced.
 
 <IMG src=http://i.imgur.com/7mXxiuV.png>
 
