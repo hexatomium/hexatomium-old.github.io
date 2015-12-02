@@ -11,6 +11,8 @@ Meanwhile Dell responded by releasing an <a href=http://en.community.dell.com/de
 
 If you are running any supported version of Windows, you should receive the update within 24 hours. 
 
+*Update*: MS Security advisory 3119884 <A href=https://technet.microsoft.com/en-us/library/security/3119884>published</A>.
+
 <a href="http://twitter.com/share" class="twitter-share-button" 
 data-url="http://hexatomium.github.io/2015/12/01/ms-blacklists-dell-root-certs/" data-text="Microsoft moves to blacklist Dell's root certificates in its Untrusted CTL"  data-count="horizontal">Tweet</a>
 <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
