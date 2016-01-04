@@ -4,7 +4,6 @@ title: MZZM - The Palindrome Executable
 comments: true
 ---
 
-
   What happens when you mix palindromes, tiny executables, and a New Year hangover? 
 
   This tiny (600-byte) Windows EXE will run identically even if all bytes are reversed:
@@ -14,7 +13,7 @@ comments: true
   What's so special about this?
   It's a new type of palindrome, an executable palindrome.
 
-  The palindrome part is actually simple. One little twist i added, to make it more fun, is to place the entry point (EP) in the mirrored section. Also, the code itself is contained within my New Year greetings :) 
+  The palindrome part is actually simple. One little twist i added, to make it more fun, is to place the entry point (EP) in the mirrored half. Also, the code itself is contained within my New Year greetings :) 
   
   In fact, most existing EXEs can very easily be turned made into palindromes 
    (possible exceptions: digitally signed EXEs)
