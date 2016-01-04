@@ -19,6 +19,7 @@ comments: true
    (possible exceptions: digitally signed EXEs)
 
   
- #Credits#
+ **Credits**
+ 
    This would not have been possible without the awesome PE resources maintained by corkami and bigmessofwires :)
    
