@@ -1,25 +1,21 @@
 
-  I've always been fascinated by palindromes, so here we go...
-
-  This 624-byte Windows executable will run identically even if all bytes are reversed!
-  The executable should valid on all Windows versions.
+  I've always been fascinated both by palindromes and tiny executabless, so here we go...
 
 
-  start in style
-  so that's what happens when i drink too much for new year's...
-  credits: corkami, bagofwires for their tiny PE tutorials :)
-   
-  does it run on every win version? yes it does.
-  did it take any skills to put this together? 
-  the only skill required is the superior ability to 
-  procrastinate like a turkish monk. just being seriously 
-  bored was enough and  as long as it helps get the girls ;)
+  This tiny (600-byte) Windows executable will run identically even if all bytes are reversed!
+
+
+  What's so special about this?
+  It's a new type of palindrome, an executable palindrome.
+
+  The palindrome part is technically simple. The only twist i made to make it a little more 
+  interesting is that it runs the code from the mirrored section. :) 
   
-  
-  what's so special about this?
-  it's a new type of palindrome, an EXE palindrome.
-  if reversed, it still executes! 
-  technically not complex, the only twist i made is that it run 
-  the code in the mirrored section! just to make it more fun ;)
-  most exes can easily be turned made into palindromes 
+  Most existing EXEs can easily be turned made into palindromes 
    (notable exceptions: digitally signed ones)
+
+  Does it run on every win version? yes it does.
+  
+ Credits
+   this would not have been possible without the awesome PE resources from corkami and bigmessofwires :)
+   
