@@ -13,13 +13,12 @@ comments: true
   What's so special about this?
   It's a new type of palindrome, an executable palindrome.
 
-  The palindrome part is technically simple. One little twist i made is to place the entry point in the mirrored section.
-  Also, the code itself is contained within my New Year greetings :) 
+  The palindrome part is actually simple. One little twist i added, to make it more fun, is to place the entry point (EP) in the mirrored section. Also, the code itself is contained within my New Year greetings :) 
   
   In fact, most existing EXEs can very easily be turned made into palindromes 
    (possible exceptions: digitally signed EXEs)
 
   
  Credits
-   this would not have been possible without the awesome PE resources from corkami and bigmessofwires :)
+   This would not have been possible without the awesome PE resources from corkami and bigmessofwires :)
    
