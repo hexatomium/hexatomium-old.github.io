@@ -4,6 +4,7 @@
 
   This tiny (600-byte) Windows executable will run identically even if all bytes are reversed!
 
+<img src=http://i.imgur.com/OXHphWP.png>
 
   What's so special about this?
   It's a new type of palindrome, an executable palindrome.
