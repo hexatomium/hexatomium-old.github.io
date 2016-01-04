@@ -4,6 +4,7 @@ title: MZZM: The Palindrome Executable
 comments: true
 ---
 
+
   What happens when you mix palindromes, tiny executables, and a New Year hangover? 
 
   This tiny (600-byte) Windows EXE will run identically even if all bytes are reversed:
