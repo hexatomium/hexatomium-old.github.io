@@ -9,13 +9,12 @@
   What's so special about this?
   It's a new type of palindrome, an executable palindrome.
 
-  The palindrome part is technically simple. The only twist i made to make it a little more 
-  interesting is that it runs the code from the mirrored section. :) 
+  The palindrome part is technically simple. One little twist i made is to place the entry point in the mirrored section.
+  Also, the code itself is contained within my New Year greetings :) 
   
-  Most existing EXEs can easily be turned made into palindromes 
-   (notable exceptions: digitally signed ones)
+  In fact, most existing EXEs can very easily be turned made into palindromes 
+   (possible exceptions: digitally signed EXEs)
 
-  Does it run on every win version? yes it does.
   
  Credits
    this would not have been possible without the awesome PE resources from corkami and bigmessofwires :)
