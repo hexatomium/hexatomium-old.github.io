@@ -1,8 +1,12 @@
+---
+layout: post
+title: MZZM: The Palindrome Executable
+comments: true
+---
 
-  I've always been fascinated both by palindromes and tiny executabless, so here we go...
+  I've always been fascinated both by palindromes and tiny executables... See me coming?
 
-
-  This tiny (600-byte) Windows executable will run identically even if all bytes are reversed!
+  This tiny (600-byte) Windows EXE will run identically even if all bytes are reversed:
 
 <img src=http://i.imgur.com/OXHphWP.png>
 
