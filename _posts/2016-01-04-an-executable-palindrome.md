@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MZZM: The Palindrome Executable
+title: MZZM - The Palindrome Executable
 comments: true
 ---
 
