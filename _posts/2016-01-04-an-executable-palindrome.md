@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MZZM - The Palindrome Executable
+title: MZZM - The 600-Byte Palindrome Executable
 comments: true
 ---
 
@@ -11,9 +11,9 @@ comments: true
 <img src=http://i.imgur.com/OXHphWP.png>
 
   What's so special about this?
-  It's a new type of palindrome, an executable palindrome.
+  It's a new type of palindrome, an *executable* palindrome.
 
-  The palindrome part is actually simple. One little twist i added, to make it more fun, is to place the entry point (EP) in the mirrored half. Also, the code itself is contained within my New Year greetings :) 
+  The palindrome part is actually simple. One little twist i added, to make it more fun, is to place the entry point (EP) in the mirrored half. Also, the actual machine code is contained *within* my New Year greetings :) 
   
   In fact, most existing EXEs can very easily be turned made into palindromes 
    (possible exceptions: digitally signed EXEs)
@@ -22,4 +22,11 @@ comments: true
  **Credits**
  
    This would not have been possible without the awesome PE resources maintained by corkami and bigmessofwires :)
+   
+
+<a href="http://twitter.com/share" class="twitter-share-button" 
+data-url="http://hexatomium.github.io/2016/01/04/an-executable-palindrome/" data-text="MZZM - The 600-Byte Palindrome Executable"  data-count="horizontal">Tweet</a>
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+
+<A href=https://twitter.com/hexatomium>Follow</A> @hexatomium
    
