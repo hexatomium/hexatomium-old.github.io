@@ -1,10 +1,11 @@
 ---
 layout: post
-title: MZZM - The 600-Byte Palindrome Executable
+title: MZZM - A new type of palindrome
 comments: true
 ---
 
   What happens when you mix palindromes, tiny executables, and a New Year hangover? 
+  Meet MZZM: the 600-Byte Palindrome Executable :)
 
   This tiny (600-byte) Windows EXE will run identically even if all bytes are reversed:
 
@@ -21,7 +22,7 @@ comments: true
   
  **Credits**
  
-   This would not have been possible without the awesome PE resources maintained by corkami and bigmessofwires :)
+   This would not have been possible without the awesome PE resources maintained by corkami :)
    
 
 <a href="http://twitter.com/share" class="twitter-share-button" 
