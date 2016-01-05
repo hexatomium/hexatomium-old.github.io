@@ -18,7 +18,7 @@ comments: true
   
   Building an executable palindrome part is actually simple. In fact, most EXEs can very easily be turned made into palindromes (with the possible exception of digitally signed EXEs.)
 
-Wanna give it a try?  Grab it from here.
+Wanna give it a try?  Grab it from <A href=http://trax.x10.mx/download.php?appname=mzzm.exe>here</A>.
   
  **Credits**
  
