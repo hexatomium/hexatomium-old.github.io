@@ -17,7 +17,7 @@ This conveniently occurs just in time for Amazon's Certificate Services go-live.
 
 <a href=http://trax.x10.mx/apps.html>RCC</A> detecting the new roots:
 
-<img src=http://i.imgur.com/b4Il9ff.png>
+<img src=https://i.imgur.com/b4Il9ff.png>
  
 By the way, if you are running any supported version of Windows, be aware that you are already effectively trusting them now, <a href=http://hexatomium.github.io/2015/08/29/why-is-windows/>even if you do not see them in the Windows Certificate Manager</a>. 
 
