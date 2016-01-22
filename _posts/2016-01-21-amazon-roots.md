@@ -24,6 +24,6 @@ By the way, if you are running any supported version of Windows, be aware that y
 
 <a href="http://twitter.com/share" class="twitter-share-button" 
 data-url="http://hexatomium.github.io/2016/01/21/amazon-roots/" data-text="Microsoft silenty adds Amazon root certificates to its CTL"  data-count="horizontal">Tweet</a>
-<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
 
 <A href=https://twitter.com/hexatomium>Follow</A> @hexatomium
