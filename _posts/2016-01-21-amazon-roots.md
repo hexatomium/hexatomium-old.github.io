@@ -5,13 +5,13 @@ comments: true
 ---
 
 Microsoft has just pushed a new CTL update with 6 new root certificates, 4 of which are for a brand new root CA: Amazon. 
-This conveniently occurs just in time for Amazon's Certificate Services go-live. But what should be a fairly ordinary update is raising a few red flags. 
+This conveniently occurs just in time for Amazon's Certificate Services go-live. But what should have been a fairly ordinary update is raising a few red flags. 
 
-1. Amazon is reported to have some <a href=http://www.defenseone.com/technology/2014/07/how-cia-partnered-amazon-and-changed-intelligence/88555/>very close ties</a> to <a href=http://www.salon.com/2014/12/01/amazons_frightening_cia_partnership_capitalism_corporations_and_our_massive_new_surveillance_state/>spy agencies</a>.
+1. Amazon is reported to have some <a href=http://www.defenseone.com/technology/2014/07/how-cia-partnered-amazon-and-changed-intelligence/88555/>close ties</a> to <a href=http://www.salon.com/2014/12/01/amazons_frightening_cia_partnership_capitalism_corporations_and_our_massive_new_surveillance_state/>spy agencies</a>.
 
-2. The new roots have not been announced by Microsoft. Their <A Href=social.technet.microsoft.com/wiki/contents/articles/31634.microsoft-trusted-root-certificate-program-participants.aspx>Program Participants</A> page is oddly silent about the changes.
-   Additionally, it's interesting how Starfield (another root acquired by Amazon last year) does not appear in there either. 
-   Hopefully that's just a coincidence, but I'll let you be the judge on that.
+2. The new roots have not been announced by Microsoft. Their <A Href=http://social.technet.microsoft.com/wiki/contents/articles/31634.microsoft-trusted-root-certificate-program-participants.aspx>Program Participants</A> page is oddly silent about the changes.
+   Additionally, it's interesting that Starfield (another root acquired by Amazon last year) does not appear in there either. 
+   Hopefully that's just a coincidence  - I will not to speculate on that.
 
 3. No other trust store provider (Mozilla, Google, Oracle) trusts these roots as of today.
 
