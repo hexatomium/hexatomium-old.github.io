@@ -15,7 +15,7 @@ Here is a quick roundup:
   * file encryption (e.g., Cryptowall)
   * recording audio/video
   * getting a banking trojan infection (e.g, Dridex) 
-  * persistence
+  * persistence (surviving reboots)
   * USB stick infections  
   * formatting external drives 
   * browser hijacking 
