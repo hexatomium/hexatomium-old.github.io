@@ -23,7 +23,7 @@ Here is a quick roundup, which could hopefully serve as a refresher:
   * hosting illegal and/or darknet content  
   * serving a remote console (VNC)
 
-In case I missed any other interesting cases, comments are welcome!
+In case I missed any other major risks, comments are welcome!
 
 <A href=https://twitter.com/hexatomium>Follow</A> @hexatomium
 
