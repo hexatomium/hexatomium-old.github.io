@@ -1,27 +1,21 @@
-People often recommend running as a non-admin as a security measure.
-While this is a very sound practice (which I've been following for 6 years now)
-It is important to remember that it is meant to be one aspect of your security posture 
-among many others, and should not be considered as the end-all-be-all of security. 
+While running as a non-admin account is a very sound and highly recommended security measure.
+it is important to keep in mind that it should only be one layer of your security posture. 
 
-Just to keep things in perspective, 
-here is a list of things that are still possible (and not just from a theoretical POV)
-when running as a LUA (Limited User Account):
+That said it is very easy to underestimate the amount of damage that can be done, so to keep 
+things in perspective, here is a quick roundup of bad things that are still possible from a 
+standard Windows account:
 
-
-  dridex-style 
-  exfil
-  cryptolocker
-  webcam / MIC on
+  password stealing (keylogging)
+  sending out any data / email (outbound FW rules won't help much)
+  file encryption (eg, cryptowall)
+  recording audio/video
+  banking trojans (eg, Dridex) 
   persistence
-  keylog
-  infect usb  
-  delete all on external fat drives and shares 
-  show ads 
-  join botnet
-  join tor 
-  host illegal content  
-  give remote vnc!
-  Also misc petty stuff like chg scr resolution, make noise, etc
+  infecting USB sticks  
+  formatting external drives 
+  ad fraud 
+  joining botnets
+  hosting illegal and/or darknet content  
+  serving a remote console (VNC)
 
-
-
+That's what I could think off the top of my head. Did I miss any?
