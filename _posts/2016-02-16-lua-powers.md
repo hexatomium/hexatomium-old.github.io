@@ -8,7 +8,7 @@ While running as a non-admin account is a sound and highly recommended security 
 it is important to keep in mind that it should only be one layer of your security posture. 
 
 It is very easy to underestimate the amount of damage that can be done by malware running as a standard Windows user.
-Here is a quick roundup:
+Here is a quick roundup, which could hopefully serve as a refresher:
 
   * keylogging / password stealing 
   * file encryption (e.g., Cryptowall)
