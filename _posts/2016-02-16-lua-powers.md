@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The powers of standard Windows accounts
+title: Cheatsheet: The powers of standard Windows accounts
 comments: true
 ---
 
@@ -10,18 +10,18 @@ it is important to keep in mind that it should only be one layer of your securit
 It is very easy to underestimate the amount of damage that can be done by malware running as a standard Windows user.
 Here is a quick roundup, which could hopefully serve as a refresher:
 
-  * keylogging / password stealing 
-  * file encryption (e.g., Cryptowall)
-  * recording audio/video
-  * banking trojan infections (e.g, Dridex) 
-  * persistence (surviving reboots)
-  * USB stick infections  
-  * formatting external drives 
-  * sending out any data  (outbound FW rules typically won't help much)
-  * browser hijacking 
-  * joining botnets
-  * hosting illegal and/or darknet content  
-  * serving a remote console (VNC)
+  1.   keylogging / password stealing 
+  2.   file encryption (e.g., Cryptowall)
+  3.   recording audio/video
+  4.   banking trojan infections (e.g., Dridex) 
+  5.   persistence (surviving reboots)
+  6.   formatting external FAT drives  
+  7.   infecting USB sticks 
+  8.   sending out any data  (outbound FW rules typically won't help much)
+  9.   browser hijacking 
+  10.  joining botnets
+  11.  hosting illegal and/or darknet content  
+  12.  serving a remote console (e.g., VNC)
 
 In case I missed any other major risks, comments are welcome!
 
