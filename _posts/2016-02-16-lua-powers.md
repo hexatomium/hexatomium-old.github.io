@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cheatsheet: The powers of standard Windows accounts
+title: Cheatsheet - The powers of standard Windows accounts
 comments: true
 ---
 
