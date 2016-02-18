@@ -7,8 +7,8 @@ comments: true
 While running as a non-admin account is a sound and highly recommended security measure,
 it is important to keep in mind that it should only be one layer of your security posture. 
 
-It is very easy to underestimate the amount of damage that can be done by malware running as a standard Windows user.
-Here is a quick roundup, which can hopefully serve as a refresher:
+It is easy to underestimate the amount of damage that can be done by malware running as a "limited" Windows user.
+Here is a quick roundup - perhaps one or two things will be a shocker!
 
   1.   keylogging / password stealing 
   2.   file encryption (e.g. Cryptowall)
@@ -19,12 +19,14 @@ Here is a quick roundup, which can hopefully serve as a refresher:
   7.   infecting USB sticks 
   8.   sending out any data  (outbound FW rules typically won't help much)
   9.   browser hijacking 
-  10.  joining botnets
-  11.  hosting illegal and/or darknet content  
+  10.  joining a botnet
+  11.  hosting content  
   12.  reading memory of other processes (e.g. Keepass)  
   13.  serving a remote console (e.g. VNC)
+  14.  port scanning / network recon
+  15.  Active Directory enumeration
 
-In case I missed any other major risks, comments are welcome!
+In case I missed any other interesting ones, the comment section is yours.
 
 <A href=https://twitter.com/hexatomium>Follow</A> @hexatomium
 
