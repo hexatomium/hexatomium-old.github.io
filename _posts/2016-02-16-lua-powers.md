@@ -4,7 +4,7 @@ title: Cheatsheet - The powers of "limited" Windows accounts
 comments: true
 ---
 
-While running as a non-admin account is a sound and highly recommended security measure,
+While using a non-admin account for everyday tasks is a sound and highly recommended security measure,
 it is important to keep in mind that it should only be one layer of your security posture. 
 
 It is easy to underestimate the amount of damage that can be done by malware running as a "limited" Windows user, even without resorting to privilege escalation. Here is a quick roundup:
@@ -25,7 +25,7 @@ It is easy to underestimate the amount of damage that can be done by malware run
   14.  port scanning / network recon
   15.  Active Directory enumeration
 
-Did you know you could do all of the above? In case I missed any other interesting ones, the comment section is yours.
+Did you know you all of the above could be done with a regular account? 
 
 <A href=https://twitter.com/hexatomium>Follow</A> @hexatomium
 
