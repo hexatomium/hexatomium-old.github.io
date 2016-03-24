@@ -1,4 +1,8 @@
-Don't run commands you don't really understand
+---
+layout: post
+title: Don't run commands you don't really understand
+comments: true
+---
 
 This demonstrates a fully silent drive-by download in Google Chrome -
   and will launch a demo PoC if you dare to paste this seemingly harmless command in a Win+R prompt:
@@ -14,3 +18,5 @@ Notes:
  * The PoC is a harmless demo
  * Chiptune in PoC is (c) 1999 WAVE
  * Reported to Google in November 2015 - status: Wontfix
+
+<A href=https://twitter.com/hexatomium>Follow</A> @hexatomium
