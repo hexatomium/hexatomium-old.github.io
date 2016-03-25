@@ -19,7 +19,7 @@ Can you figure out how this works?
 Notes: 
 
   * The PoC is a harmless demo
-  * Chiptune in PoC is (c) 1999 WAVE
+  * Chiptune in PoC is (c) 1999 Jozz
   * Reported to Google in November 2015 (status: Wontfix)
 
 <A href=https://twitter.com/hexatomium>Follow</A> @hexatomium
