@@ -7,7 +7,7 @@ comments: true
 This demonstrates a fully silent drive-by download in Google Chrome (rather similar to CVE-2011-0611, but without the automatic execution part), as well as some social engineering magic: a PoC binary will execute if the below seemingly harmless command line is entered in a **Win+R** prompt on a Windows system. Note that you may need to wait for a few seconds before the fun starts.
 
 <div style= "padding: 2px 4px;  background-color: #de9393; padding-top: 9px ; border: 1px solid #ccc; display:table">
-<div style= "padding: 2px 4px;  background-color: #de9393;  width:820px ; display:inline-block;">
+<div style= "padding: 2px 4px;  background-color: #de9393;  width:720px ; display:inline-block;">
 
 <B>Keep safe!</B> To avoid unnecessary risk, only try this in a temporary VM.
 </div>
