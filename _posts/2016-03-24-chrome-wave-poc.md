@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't run commands you don't really understand
+title: Don't run commands you don't understand
 comments: true
 ---
 
