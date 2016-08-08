@@ -4,7 +4,7 @@ title: The Executable Palindrome
 comments: true
 ---
 
-  What happens when you mix palindromes, a bit of ASM, and a New Year hangover? 
+  What happens when you mix palindromes, a pinch of ASM, and a New Year hangover? 
   A tiny 600-byte *executable* binary palindrome :)
 
 <img src=http://i.imgur.com/OXHphWP.png>
@@ -18,7 +18,7 @@ comments: true
   
   Building an executable palindrome part is actually simple. In fact, most EXEs can very easily be turned made into palindromes (with the possible exception of digitally signed EXEs.)
 
- Wanna give it a try?  Grab it from <A href=http://trax.x10.mx/download.php?appname=mzzm.exe>here</A>.
+ Wanna give it a try?  Grab it from <A href=http://trax.x10.mx/download.php?appname=mzzm.exe>here</A> (or manually type in the above bytes using a hex editor, to experience a true hacker's high!)
   
  BTW, this would not have been possible without the awesome PE resources maintained by corkami.
    
