@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MZZM - A new type of palindrome
+title: The executable palindrome
 comments: true
 ---
 
@@ -22,7 +22,7 @@ Wanna give it a try?  Grab it from <A href=http://trax.x10.mx/download.php?appna
   
  **Credits**
  
-   This would not have been possible without the awesome PE resources maintained by corkami :)
+   This would not have been possible without the awesome PE resources maintained by corkami.
    
 
 <a href="http://twitter.com/share" class="twitter-share-button" 
