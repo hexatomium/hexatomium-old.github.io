@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The executable palindrome
+title: The Executable Palindrome
 comments: true
 ---
 
