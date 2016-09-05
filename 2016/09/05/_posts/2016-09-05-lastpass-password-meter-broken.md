@@ -5,17 +5,17 @@ comments: true
 ---
 
  
- Don't use LastPass to generate your passwords. Or if you do, do not change any of the settings.
+ Don't use LastPass to generate your passwords. Or if you do, do not change any of the defaults.
  
  <img src=http://trustprobe.com/images/lpgen.png>
  
- Depending on what options are configured, the LastPass password strength meter (inside the browser extensions, or at https://lastpass.com/generatepassword.php) can give completely misleading estimates. For instance, generating a purely numeric 14-digit password results in a green strength bar, although such a password in fact extremely weak: with just 46 bits of entropy - it would be bruteforced in minutes by even a modest password cracking rig. 
+ Depending on what options are configured, the LastPass password strength meter (inside the browser extensions, or at https://lastpass.com/generatepassword.php) will give completely misleading estimates. For instance, generating a purely numeric 14-digit password results in a green strength bar, although such a password is in fact extremely weak: with just 46 bits of entropy, it would be bruteforced in minutes by even a modern cracking rig. 
  Don't get burned. Use a proper, native password manager.
  
-
+ 
 
 <a href="http://twitter.com/share" class="twitter-share-button" 
-data-url="http://hexatomium.github.io/2016/01/04/an-executable-palindrome/" data-text="MZZM - The 600-Byte Palindrome Executable"  data-count="horizontal">Tweet</a>
+data-url="http://hexatomium.github.io//2016/09/05/lastpass-password-meter-broken/" data-text="Unreliable LastPass Password Strength Meter"  data-count="horizontal">Tweet</a>
 <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 
 <A href=https://twitter.com/hexatomium>Follow</A> @hexatomium
