@@ -9,10 +9,8 @@ comments: true
  
  <img src=http://trustprobe.com/images/lpgen.png>
  
- Depending on what options are configured, the LastPass password strength meter (inside the browser extensions, or at https://lastpass.com/generatepassword.php) 
- can give completely misleading estimates. For instance, generating a purely numeric 14-digit password results in a green strength bar, although such a password 
- in fact extremely weak: with just 46 bits of entropy - it would be bruteforced in minutes by even a modest password cracking rig. 
- Don't get burned!
+ Depending on what options are configured, the LastPass password strength meter (inside the browser extensions, or at https://lastpass.com/generatepassword.php) can give completely misleading estimates. For instance, generating a purely numeric 14-digit password results in a green strength bar, although such a password in fact extremely weak: with just 46 bits of entropy - it would be bruteforced in minutes by even a modest password cracking rig. 
+ Don't get burned. Use a proper, native password manager.
  
 
 
