@@ -8,7 +8,7 @@ comments: true
  
  <img src=http://trustprobe.com/images/lpgen.png>
  
- Password stregth meters are notoriously unreliable and LastPass is unfortunately no exception.
+ Password strength meters are notoriously unreliable and LastPass is unfortunately no exception.
  Depending on what options are configured, the password strength meter inside the LastPass browser plugin, or at https://lastpass.com/generatepassword.php will give completely misleading estimates. For instance, generating a purely numeric 14-digit password results in a green strength bar, although such a password is in fact extremely weak: with just 46 bits of entropy, it would be bruteforced in minutes by even a modest cracking rig. 
  Don't get burned. Use a proper, native password manager.
  
