@@ -1,20 +1,31 @@
 ---
 layout: post
-title: Don't use LastPass to generate your passwords 
+title: LastPass' password meter is broken 
 comments: true
 ---
  
- Don't use LastPass to generate your passwords. Or if you do, do not trust the handy strength meter.
- 
- <img src=http://trustprobe.com/images/lpgen.png>
  
  Password strength meters are notoriously unreliable and LastPass is unfortunately no exception.
- Depending on what options are configured, the password strength meter inside the LastPass browser plugin, or at <a href=https://lastpass.com/generatepassword.php>lastpass.com</a> will give completely misleading estimates. For instance, generating a purely numeric 14-digit password results in a green strength bar, although such a password is in fact extremely weak: with just 46 bits of entropy, it would be bruteforced in minutes by even a modest cracking rig.
+ Depending on what options are configured, the password strength meter inside the LastPass browser plugin, or at <a href=https://lastpass.com/generatepassword.php>lastpass.com</a> will give completely misleading estimates, giving a wrong sense of security. 
  <BR><BR>
  
+  **Example 1**
+ Generating a purely numeric 14-digit password results in a green strength bar, although such a password is in fact extremely weak: with just 46 bits of entropy, it would be bruteforced in minutes by even a modest cracking rig.
+<img src=http://trustprobe.com/images/lpgen.png>
+
+    dict size: 10   length: 14  ->  46.50 bits of entropy  ->  bruteforce difficulty: trivial (minutes)
+
+   <BR><BR>
+   **Example 2**
+   
+    dict size: 18   length: 10  ->  41.69 bits of entropy  ->  bruteforce difficulty: trivial (seconds)
+
+<img src=http://trustprobe.com/images/lpgen.png>
+  <BR><BR>
+ So the bottom line is,  don't use LastPass to generate your passwords. At least not, until their fix their password meter.
  Don't get burned. Just use a proper, native password manager.
  
- PS. I had a pretty bad experience reporting a previous vulnerability to LastPass, so I won't bother doing that again, until they give their bug bounty program more attention.
+ PS. I had a rather bad experience reporting a previous (more serious) vulnerability to LastPass, so I'm not sure I want to go through that again.
 
 <a href="http://twitter.com/share" class="twitter-share-button" 
 data-url="http://hexatomium.github.io//2016/09/05/lastpass-password-meter-broken/" data-text="Don't use LastPass to generate your passwords"  data-count="horizontal">Tweet</a>
