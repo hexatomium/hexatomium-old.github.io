@@ -5,7 +5,7 @@ comments: true
 ---
  
  Password strength meters are notoriously unreliable and LastPass is unfortunately no exception.
- Depending on what options are configured, the password strength meter inside the LastPass browser plugin, or at <a href=https://lastpass.com/generatepassword.php>lastpass.com</a> will give completely ridiculous estimates, providing a false sense of security. 
+ Depending on what options are configured, the password strength meter both in the Chrome browser plugin, and at <a href=https://lastpass.com/generatepassword.php>lastpass.com</a> will give completely ridiculous estimates, providing a false sense of security and putting users at risk. 
  <BR><BR>
   **Example 1**
      <BR>
