@@ -10,6 +10,7 @@ comments: true
   **Example 1**
      <BR>
  Generating a purely numeric 14-digit password results in a green strength bar, although such a password is in fact extremely weak: at just 46 bits of entropy, it would be bruteforced in minutes by even a modest cracking rig.
+ 
 <img src=https://i.imgur.com/Ctx0Ry9.png>
 
     dict size: 10   length: 14  ->  46.50 bits of entropy  ->  bruteforce difficulty: trivial (minutes)
