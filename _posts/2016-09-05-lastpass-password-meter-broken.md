@@ -6,7 +6,7 @@ comments: true
  
  Password strength meters are notoriously unreliable and LastPass is unfortunately no exception.
  Depending on what options are configured, the password strength meter inside the LastPass browser plugin, or at <a href=https://lastpass.com/generatepassword.php>lastpass.com</a> will give completely ridiculous estimates, providing a false sense of security. 
- <BR>
+ <BR><BR>
   **Example 1**
      <BR>
  Generating a purely numeric 14-digit password results in a green strength bar, although such a password is in fact extremely weak: with just 46 bits of entropy, it would be bruteforced in minutes by even a modest cracking rig.
@@ -24,7 +24,7 @@ comments: true
     dict size: 18   length: 10  ->  41.69 bits of entropy  ->  bruteforce difficulty: trivial (seconds)
 
   <BR><BR>
- So the bottom line is,  don't use LastPass to generate your passwords. At least not, until their fix their password meter.
+ Bottom line is,  don't use LastPass to generate your passwords. At least not until their fix (or remove) their password meter.
  Don't get burned. Just use a proper, native password manager.
  
  PS. I had a rather bad experience reporting a previous (more serious) vulnerability to LastPass, so I'm not sure I want to go through that again.
