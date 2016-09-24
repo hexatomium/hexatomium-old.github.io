@@ -168,11 +168,11 @@ Success! We get a nice list of 152 Microsoft-owned domains.
 
 Also, the lastsync timestamp (2016-09-24 14:22:44 UTC) shows that this list is being regularly updated. 
 
-So this very much looks like evidence of an active system-wide certificate pinning mechanism protecting against MITM attacks on high-value Microsoft domains. Which, per se, is a good thing! Some documentation from Microsoft would be nice, though.
+So this very much looks like evidence of an active system-wide certificate pinning mechanism protecting against MITM attacks on high-value Microsoft domains. Which, per se, is a good thing! Some official documentation would be nice, though.
 
 
 <a href="http://twitter.com/share" class="twitter-share-button" 
-data-url="http://hexatomium.github.io//2016/09/05/lastpass-password-meter-broken/" data-text="Windows 10's Undocumented Certificate Pinning Feature"  data-count="horizontal">Tweet</a>
+data-url="https://hexatomium.github.io/2016/09/24/hidden-w10-pins/" data-text="Windows 10's Undocumented Certificate Pinning Feature"  data-count="horizontal">Tweet</a>
 <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 
 <A href=https://twitter.com/hexatomium>Follow</A> @hexatomium
