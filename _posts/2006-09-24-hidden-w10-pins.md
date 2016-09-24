@@ -8,7 +8,7 @@ After getting to play with Windows 10 for a few hours, something odd captured my
   
 <img src=http://i.imgur.com/7MJQmGV.png>
 
-We got some new stuff in there! Googling for 'PinRulesEncodedCtl' turned up nothing at all, which got me curious.
+We got some new stuff in there - A third CTL! Googling for 'PinRulesEncodedCtl' turned up nothing at all, which got me curious.
 
 <img src=https://i.imgur.com/wPoEsha.png>
    
