@@ -4,13 +4,13 @@ title:  Windows 10 has an undocumented certificate pinning feature
 comments: true
 ---
  
-After getting to play with Windows 10 for a few hours, something odd captured my attention.
+After getting to play with Windows 10 for a few hours, something unexpected caught my attention.
   
 <img src=http://i.imgur.com/7MJQmGV.png>
 
-We got some new stuff in there - A third CTL! Googling for 'PinRulesEncodedCtl' turned up nothing at all, which got me curious.
+Hey, we got some new stuff in there! A third, undocumented CTL! Googling for 'PinRulesEncodedCtl' turned up nothing at all. The first few bytes of the binary data (30 82 .. .. 06 09 2a 86 48) looked familiar: it was probably ASN.1 encoded data, just like the other two CTLs. That meant I could probably just feed it into my existing tools for a painless decoding.
 
-<img src=https://i.imgur.com/wPoEsha.png>
+Success! We get a nice list of 152 Microsoft-owned domains.
    
     Subject Identifier: .files-df.1drv.com
     Subject Identifier: .files.1drv.com
@@ -165,14 +165,13 @@ We got some new stuff in there - A third CTL! Googling for 'PinRulesEncodedCtl' 
     Subject Identifier: .xboxlive.com
     Subject Identifier: .zune.net
 
-  <BR><BR>
- Bottom line is,  don't use LastPass to generate your passwords. At least not until their fix (or remove) their password meter.
- Don't get burned. Just use a proper, native password manager.
- 
- PS. I had a rather bad experience reporting a previous (more serious) vulnerability to LastPass, so I'm not sure I want to go through that again.
+Also, the lastsync timestamp (2016-09-24 14:22:44 UTC) shows that this list is being regularly updated. 
+
+So this very much looks like evidence of an active system-wide certificate pinning mechanism protecting against MITM attacks on high-value Microsoft domains. Some documentation from Microsoft would be nice, though! 
+
 
 <a href="http://twitter.com/share" class="twitter-share-button" 
-data-url="http://hexatomium.github.io//2016/09/05/lastpass-password-meter-broken/" data-text="Don't use LastPass to generate your passwords"  data-count="horizontal">Tweet</a>
+data-url="http://hexatomium.github.io//2016/09/05/lastpass-password-meter-broken/" data-text="Windows 10's Undocumented Certificate Pinning Feature"  data-count="horizontal">Tweet</a>
 <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 
 <A href=https://twitter.com/hexatomium>Follow</A> @hexatomium
