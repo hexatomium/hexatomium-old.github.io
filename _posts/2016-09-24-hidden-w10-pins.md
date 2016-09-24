@@ -9,7 +9,7 @@ After getting to play with Windows 10 for a few hours, something unexpected caug
 <img src=http://i.imgur.com/7MJQmGV.png>
 
 Hey, there's some new stuff in there - a third, undocumented CTL! <BR>
-Googling for 'PinRulesEncodedCtl' turned up nothing at all. The first few bytes of the binary data (30 82 .. .. 06 09 2a 86 48) looked familiar though: it was probably ASN.1 encoded data, just like the other two well-documented CTLs. That meant I could probably just feed it into my existing tools for quick and painless decoding.
+Googling for 'PinRulesEncodedCtl' turned up nothing at all. The first few bytes of the binary data (30 82 .. .. 06 09 2a 86 48) looked familiar though: it was probably ASN.1 encoded data, just like the other two well-documented CTLs. That meant I could probably just feed the blob into my existing tools for quick and painless decoding.
 
 Success! We get a nice list of 152 Microsoft-owned domains.
    
@@ -170,7 +170,7 @@ Also, the lastsync timestamp (2016-09-24 14:22:44 UTC) shows that this list is b
 
 So this very much looks like evidence of an active system-wide certificate pinning mechanism protecting against MITM attacks on high-value Microsoft domains. Which, per se, is a good thing! Some official documentation would be nice, though.
 
-Edit 1 (2016-09-24): This seems to be related to Windows 10 Telemetry, as briefly mentioned at this single page:  https://technet.microsoft.com/en-us/itpro/windows/manage/configure-windows-telemetry-in-your-organization 
+Edit 1 (2016-09-24): This seems to be - at least partially - related to Telemetry, as briefly mentioned at the only page I could find:  https://technet.microsoft.com/en-us/itpro/windows/manage/configure-windows-telemetry-in-your-organization 
 
 <a href="http://twitter.com/share" class="twitter-share-button" 
 data-url="https://hexatomium.github.io/2016/09/24/hidden-w10-pins/" data-text="Windows 10's Undocumented Certificate Pinning Feature"  data-count="horizontal">Tweet</a>
