@@ -1,15 +1,11 @@
 ---
 layout: post
-title: Revealed - Undocumented root certificate pinning in Windows 10
+title:  Windows 10 has an undocumented certificate pinning feature 
 comments: true
 ---
  
- Password strength meters are notoriously unreliable and LastPass is unfortunately no exception.
- Depending on what options are configured, the password strength meter both in the Chrome browser plugin, and at <a href=https://lastpass.com/generatepassword.php>lastpass.com</a> will give completely ridiculous estimates, providing a false sense of security and putting users at risk. 
- <BR><BR>
-  **Example 1**
-     <BR>
- Generating a purely numeric 14-digit password results in a green strength bar, although such a password is in fact extremely weak: at just 46 bits of entropy, it would be bruteforced in minutes by even a modest cracking rig.
+ After being forced to play with Windows 10 for a few hours, something odd captured my attention.
+ 
  
 <img src=https://i.imgur.com/Ctx0Ry9.png>
 
