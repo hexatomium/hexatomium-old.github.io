@@ -4,17 +4,11 @@ title:  Windows 10 has an undocumented certificate pinning feature
 comments: true
 ---
  
- After being forced to play with Windows 10 for a few hours, something odd captured my attention.
- 
- 
-<img src=https://i.imgur.com/Ctx0Ry9.png>
+After getting to play with Windows 10 for a few hours, something odd captured my attention.
+  
+<img src=http://i.imgur.com/7MJQmGV.png>
 
-    dict size: 10   length: 14  ->  46.50 bits of entropy  ->  bruteforce difficulty: trivial (minutes)
-
-   <BR>
-   **Example 2**
-   <BR>   
-   This password is shorter (10 characters) but results in an even longer and greener strength meter.
+We got some new stuff in there! Googling for 'PinRulesEncodedCtl' turned up nothing at all, which got me curious.
 
 <img src=https://i.imgur.com/wPoEsha.png>
    
