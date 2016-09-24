@@ -170,7 +170,7 @@ Also, the lastsync timestamp (2016-09-24 14:22:44 UTC) shows that this list is b
 
 So this very much looks like evidence of an active system-wide certificate pinning mechanism protecting against MITM attacks on high-value Microsoft domains. Which, per se, is a good thing! Some official documentation would be nice, though.
 
-Edit 1 (2016-09-24): It could be related to Windows 10 Telemetry, as hinted at  https://technet.microsoft.com/en-us/itpro/windows/manage/configure-windows-telemetry-in-your-organization 
+Edit 1 (2016-09-24): This seems to be related to Windows 10 Telemetry, as briefly mentioned at  https://technet.microsoft.com/en-us/itpro/windows/manage/configure-windows-telemetry-in-your-organization 
 
 <a href="http://twitter.com/share" class="twitter-share-button" 
 data-url="https://hexatomium.github.io/2016/09/24/hidden-w10-pins/" data-text="Windows 10's Undocumented Certificate Pinning Feature"  data-count="horizontal">Tweet</a>
