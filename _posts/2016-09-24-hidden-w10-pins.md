@@ -9,7 +9,7 @@ After getting to play with Windows 10 for a few hours, something unexpected caug
 <img src=http://i.imgur.com/7MJQmGV.png>
 
 Hey, there's some new stuff in there - a third, undocumented CTL! <BR>
-Googling for 'PinRulesEncodedCtl' turned up nothing at all. The first few bytes of the binary data (30 82 .. .. 06 09 2a 86 48) looked familiar: it was probably ASN.1 encoded data, just like the other two CTLs. That meant I could probably just feed it into my existing tools for a painless decoding.
+Googling for 'PinRulesEncodedCtl' turned up nothing at all. The first few bytes of the binary data (30 82 .. .. 06 09 2a 86 48) looked familiar though: it was probably ASN.1 encoded data, just like the other two well-documented CTLs. That meant I could probably just feed it into my existing tools for a painless decoding.
 
 Success! We get a nice list of 152 Microsoft-owned domains.
    
