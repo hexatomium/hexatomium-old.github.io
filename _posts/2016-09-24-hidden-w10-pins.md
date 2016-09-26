@@ -6,7 +6,7 @@ comments: true
  
 After getting to play with Windows 10 for a few hours, something unexpected caught my attention.
   
-<img src=http://i.imgur.com/7MJQmGV.png>
+<img src=https://i.imgur.com/7MJQmGV.png>
 
 Hey, there's some new stuff in there - a third, undocumented CTL! <BR>
 Googling for 'PinRulesEncodedCtl' turned up nothing at all. The first few bytes of the binary data (30 82 .. .. 06 09 2a 86 48) looked familiar though: it was probably ASN.1 encoded data, just like the other two well-documented CTLs. That meant I could probably just feed the blob into my existing tools for quick and painless decoding.
