@@ -172,8 +172,8 @@ So this very much looks like evidence of an active system-wide certificate pinni
 
 Edit 1 (2016-09-24): This seems to be - at least partially - related to Telemetry, as briefly mentioned at the only page I could find:  https://technet.microsoft.com/en-us/itpro/windows/manage/configure-windows-telemetry-in-your-organization 
 
-<a href="http://twitter.com/share" class="twitter-share-button" 
+<a href="https://twitter.com/share" class="twitter-share-button" 
 data-url="https://hexatomium.github.io/2016/09/24/hidden-w10-pins/" data-text="Windows 10's Undocumented Certificate Pinning Feature"  data-count="horizontal">Tweet</a>
-<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
 
 <A href=https://twitter.com/hexatomium>Follow</A> @hexatomium
