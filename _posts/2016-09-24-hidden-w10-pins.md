@@ -172,8 +172,21 @@ So this very much looks like evidence of an active system-wide certificate pinni
 
 Edit 1 (2016-09-24): This seems to be - at least partially - related to Telemetry, as briefly mentioned at the only page I could find:  https://technet.microsoft.com/en-us/itpro/windows/manage/configure-windows-telemetry-in-your-organization 
 
+Edit 2 (2016-09-27): After some more decoding: here's the list of root CAs the above domains are pinned to: 
+
+    Baltimore CyberTrust Root
+    Class 3 Public Primary Certification Authority
+    DigiCert High Assurance EV Root CA
+    Entrust Root Certification Authority - G2
+    Entrust.net Certification Authority (2048)
+    GeoTrust Global CA
+    GlobalSign Root CA
+    Microsoft Internet Authority
+    Microsoft Root Certificate Authority
+    Microsoft Root Certificate Authority 2011
+    thawte Primary Root CA - G3
+    VeriSign Class 3 Public Primary Certification Authority - G5
+
 <a href="https://twitter.com/share" class="twitter-share-button" 
 data-url="https://hexatomium.github.io/2016/09/24/hidden-w10-pins/" data-text="Windows 10's Undocumented Certificate Pinning Feature"  data-count="horizontal">Tweet</a>
 <script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
-
-<A href=https://twitter.com/hexatomium>Follow</A> @hexatomium
