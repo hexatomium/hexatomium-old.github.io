@@ -175,7 +175,6 @@ Edit 1 (2016-09-24): This seems to be - at least partially - related to Telemetr
 Edit 2 (2016-09-27): After some more decoding: here's the list of root CAs the above domains are pinned to: 
 
     Baltimore CyberTrust Root
-    Class 3 Public Primary Certification Authority
     DigiCert High Assurance EV Root CA
     Entrust Root Certification Authority - G2
     Entrust.net Certification Authority (2048)
@@ -185,6 +184,7 @@ Edit 2 (2016-09-27): After some more decoding: here's the list of root CAs the a
     Microsoft Root Certificate Authority
     Microsoft Root Certificate Authority 2011
     thawte Primary Root CA - G3
+    VeriSign Class 3 Public Primary Certification Authority
     VeriSign Class 3 Public Primary Certification Authority - G5
 
 <a href="https://twitter.com/share" class="twitter-share-button" 
