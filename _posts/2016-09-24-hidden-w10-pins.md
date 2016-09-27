@@ -180,7 +180,7 @@ Edit 2 (2016-09-27): After some more decoding: here's the list of root CAs the a
     Entrust.net Certification Authority (2048)
     GeoTrust Global CA
     GlobalSign Root CA
-    Microsoft Internet Authority
+    GTE CyberTrust Global Root
     Microsoft Root Certificate Authority
     Microsoft Root Certificate Authority 2011
     thawte Primary Root CA - G3
