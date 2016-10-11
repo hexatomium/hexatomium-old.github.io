@@ -21,12 +21,12 @@ A quick <A HREF=https://www.wilderssecurity.com/threads/rcc-check-your-systems-t
     81ac5de150d1b8de5d3e0e266a136b737862d322	TW    ePKI Root Certification Authority - G2
     c3197c3924e654af1bc4ab20957ae2c30e13026a	US	  SSL.com Root Certification Authority ECC
     b7ab3308d1ea4477ba1480125a6fbda936490cbb	US    SSL.com Root Certification Authority RSA
-    4cdd51a3d1f5203214b0c6c532230391c746426d	US    SSL.com EV Root Certification Authority ECC	 
+    4cdd51a3d1f5203214b0c6c532230391c746426d	US    SSL.com EV Root Certification Authority ECC
     1cb7ede176bcdfef0c866f46fbf980e901e5ce35    US    SSL.com EV Root Certification Authority RSA
     d3dd483e2bbf4c05e8af10f5fa7626cfd3dc3092	PL    Certum Trusted Network CA 2
     d496592b305707386cc5f3cdb259ae66d7661fca	ES    ACA ROOT
 
-Trusting new CAs is always a big deal, so advanced users and enterprise admins may use the above list to decide which of these new roots they actually want to trust.  And I'm currently working on a trust store hardening product, which will make it easy to drastically reduce your exposure to unnecessary CAs. Stay tuned! 
+Trusting new CAs is always a big deal, so advanced users and enterprise admins may use the above list to research these new roots and decide which ones they actually want to trust.  And I'm currently working on a trust store hardening product, which will make it easy to drastically reduce your exposure to unnecessary CAs. Stay tuned! 
  
 
 <a href="https://twitter.com/share" class="twitter-share-button" 
