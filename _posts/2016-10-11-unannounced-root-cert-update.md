@@ -26,7 +26,7 @@ A quick <A HREF=https://www.wilderssecurity.com/threads/rcc-check-your-systems-t
     d3dd483e2bbf4c05e8af10f5fa7626cfd3dc3092	PL    Certum Trusted Network CA 2
     d496592b305707386cc5f3cdb259ae66d7661fca	ES    ACA ROOT
 
-Trusting new CAs is always a big deal, so advanced users and enterprise admins may use the above list to decide which of these new roots they actually want to trust.  And I'm currently working on a trust store hardening product, which will make it easy to reduce your exposure to unneccessary CAs. Stay tuned! 
+Trusting new CAs is always a big deal, so advanced users and enterprise admins may use the above list to decide which of these new roots they actually want to trust.  And I'm currently working on a trust store hardening product, which will make it easy to reduce your exposure to unnecessary CAs. Stay tuned! 
  
 
 <a href="https://twitter.com/share" class="twitter-share-button" 
