@@ -29,7 +29,7 @@ A quick <A HREF=https://www.wilderssecurity.com/threads/rcc-check-your-systems-t
 Trusting new authorities is always a big deal, so advanced users and enterprise admins may use the above list to decide which of these new roots they actually want to trust.
 
 <a href="http://twitter.com/share" class="twitter-share-button" 
-data-url="http://hexatomium.github.io/2015/06/26/ms-very-quietly-adds-18-new-trusted-root-certs/" data-text="14 new trusted root certificates added to Windows in unannounced update"  data-count="horizontal">Tweet</a>
+data-url="http://hexatomium.github.io/2016/10/11/unannounced-root-cert-update/" data-text="14 new trusted root certificates added to Windows in unannounced update"  data-count="horizontal">Tweet</a>
 <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 
 <A href=https://twitter.com/hexatomium>Follow</A> @hexatomium for more updates and occasional crazy thoughts.
