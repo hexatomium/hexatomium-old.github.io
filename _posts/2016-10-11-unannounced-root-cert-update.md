@@ -13,7 +13,7 @@ A quick <A HREF=https://www.wilderssecurity.com/threads/rcc-check-your-systems-t
 
     1e0e56190ad18b2598b20444ff668a0417995f3f	LU    LuxTrust Global Root 2
     5463283b6793ff55277cede39098e80422f912f7	CO    AC Raiz Certicamara S.A.
-    3143649becce27eced3a3f0b8f0de4e891ddeeca	TR    TUBITAK Kamu SM SSL Kok Sertifikasi Surum 1	 
+    3143649becce27eced3a3f0b8f0de4e891ddeeca	TR    TUBITAK Kamu SM SSL Kok Sertifikasi  Surum 1
     e252fa953feddb2460bd6e28f39ccccf5eb33fde	HR    SZAFIR ROOT CA2
     3f0feb17a7ef5804cfd90a77b7bb021ea69c6418	GR    BYTE Root Certification Authority 001
     a69e0336c4e59023ff653c71f928eb73f21c00f0	CA    Carillon Information Security Inc.
