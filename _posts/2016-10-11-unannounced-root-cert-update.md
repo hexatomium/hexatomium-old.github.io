@@ -27,7 +27,8 @@ A quick <A HREF=https://www.wilderssecurity.com/threads/rcc-check-your-systems-t
     d496592b305707386cc5f3cdb259ae66d7661fca	ES    ACA ROOT
 
 Trusting new CAs is always a big deal, so advanced users and enterprise admins may use the above list to research these new roots and decide which ones they actually want to trust.  And I'm currently working on a trust store hardening product, which will make it easy to drastically reduce your exposure to unnecessary CAs. Stay tuned! 
- 
+
+**Update** 13-Oct-2016: Microsoft confirms the <a href=http://social.technet.microsoft.com/wiki/contents/articles/31634.microsoft-trusted-root-certificate-program-participants.aspx>release</a>.
 
 <a href="https://twitter.com/share" class="twitter-share-button" 
 data-url="https://hexatomium.github.io/2016/10/11/unannounced-root-cert-update/" data-text="14 new trusted root certificates added to Windows in unannounced update"  data-count="horizontal">Tweet</a>
