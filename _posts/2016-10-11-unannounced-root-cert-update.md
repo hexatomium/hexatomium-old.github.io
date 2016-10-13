@@ -7,7 +7,7 @@ comments: true
 
 My monitoring scripts raised an alert a few days ago: Microsoft has just quietly updated its Root CTL (Certificate Trust List), increasing its size to 356 roots.
 
-The <a href=http://social.technet.microsoft.com/wiki/contents/articles/31680.microsoft-trusted-root-certificate-program-updates.aspx>official</a> <A href=http://social.technet.microsoft.com/wiki/contents/articles/31634.microsoft-trusted-root-certificate-program-participants-v-2016-april.aspx>channels</a>, which normally announce and document such updates well in advance, are oddly silent about this one, and the new CTL is already being pushed to all Windows systems (including servers). 
+The <a href=http://social.technet.microsoft.com/wiki/contents/articles/31680.microsoft-trusted-root-certificate-program-updates.aspx>official</a> <A href=http://social.technet.microsoft.com/wiki/contents/articles/31634.microsoft-trusted-root-certificate-program-participants.aspx>channels</a>, which normally announce and document such updates well in advance, are oddly silent about this one, and the new CTL is already being pushed to all Windows systems (including servers). 
 
 A quick <A HREF=https://www.wilderssecurity.com/threads/rcc-check-your-systems-trusted-root-certificate-store.373819/>RCC</A> scan (shameless plug!) highlights the following entries as new: 
 
@@ -28,7 +28,7 @@ A quick <A HREF=https://www.wilderssecurity.com/threads/rcc-check-your-systems-t
 
 Trusting new CAs is always a big deal, so advanced users and enterprise admins may use the above list to research these new roots and decide which ones they actually want to trust.  And I'm currently working on a trust store hardening product, which will make it easy to drastically reduce your exposure to unnecessary CAs. Stay tuned! 
 
-**Update** 13-Oct-2016: Microsoft confirms the <a href=http://social.technet.microsoft.com/wiki/contents/articles/31634.microsoft-trusted-root-certificate-program-participants.aspx>release</a>.
+**Update** 13-Oct-2016: Microsoft confirms the <a href=http://social.technet.microsoft.com/wiki/contents/articles/31680.microsoft-trusted-root-certificate-program-updates.aspx>release</a>.
 
 <a href="https://twitter.com/share" class="twitter-share-button" 
 data-url="https://hexatomium.github.io/2016/10/11/unannounced-root-cert-update/" data-text="14 new trusted root certificates added to Windows in unannounced update"  data-count="horizontal">Tweet</a>
