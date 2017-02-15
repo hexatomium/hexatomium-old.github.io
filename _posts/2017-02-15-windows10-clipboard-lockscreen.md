@@ -4,7 +4,7 @@ title: Windows 10 Lock Screen Leaks Clipboard Contents
 comments: true
 ---
 
-Earlier this year a <A HREF=https://twitter.com/Oddvarmoe>Norwegian MVP</A> made a rather shocking discovery that went mostly under the radar. On Windows 10, there is a way to read clipboard contents right from the lock screen, without any form of authentication. This would especially be a problem in enterprise environments, where any coworker could easily go thru a few PCs at lunch time and harvest potentially juicy information (such as passwords) without leaving any traces.
+Earlier this year a <A HREF=https://twitter.com/Oddvarmoe>Norwegian MVP</A> made a rather shocking discovery that went mostly under the radar. On Windows 10, there is a way to read clipboard contents right from the lock screen, without any form of authentication. This would especially be a problem in enterprise environments, where any coworker could easily go through a few PCs at lunch time and harvest potentially juicy information (such as passwords) without leaving any traces.
 
 The PoC goes as follows:
 
