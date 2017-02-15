@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 14 new trusted root certificates added to Windows in unannounced update
+title: Windows 10 Leaks Clipboard Contents At The Lock Screen
 comments: true
 ---
 
@@ -22,7 +22,7 @@ Possible mitigations include disabling these options through the appropriate Gro
 
 
 <a href="https://twitter.com/share" class="twitter-share-button" 
-data-url="https://hexatomium.github.io/2016/10/11/unannounced-root-cert-update/" data-text="14 new trusted root certificates added to Windows in unannounced update"  data-count="horizontal">Tweet</a>
+data-url="https://hexatomium.github.io/2017/02/15/windows10-clipboard-lockscreen/" data-text="Windows 10 Leaks Clipboard Contents At The Lock Screen"  data-count="horizontal">Tweet</a>
 <script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
 
 <A href=https://twitter.com/hexatomium>Follow</A> @hexatomium for more updates and the occasional crazy thought.
