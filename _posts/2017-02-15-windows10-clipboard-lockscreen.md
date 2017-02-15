@@ -17,8 +17,7 @@ By the way, this can also be achieved through the WiFi selector UI, right on the
 
 As of today, Microsoft has not released a fix for this issue, and it is not clear that they will.
 
-Possible mitigations include disabling these options through the appropriate Group Policies settings, or using ClipTTL, which I wrote to protect against this and other cases of accidental clipboard pasting.
-(Do contact me before deploying ClipTTL in an enterprise environment).
+Possible mitigations include disabling these options through the appropriate Group Policies settings, or using <A HREF=https://www.trustprobe.com/fs1/apps.html>ClipTTL</A>, which I wrote to protect against this and other cases of accidental clipboard pasting. (Do contact me before deploying ClipTTL in an enterprise environment).
 
 <a href="https://twitter.com/share" class="twitter-share-button" 
 data-url="https://hexatomium.github.io/2017/02/15/windows10-clipboard-lockscreen/" data-text="Windows 10 Leaks Clipboard Contents At The Lock Screen"  data-count="horizontal">Tweet</a>
