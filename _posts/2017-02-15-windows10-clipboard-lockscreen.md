@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windows 10 Leaks Clipboard Contents At The Lock Screen
+title: Windows 10 Lock Screen Leaks Clipboard Contents
 comments: true
 ---
 
