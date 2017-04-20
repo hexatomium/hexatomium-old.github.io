@@ -10,6 +10,7 @@ I've received user reports about a suspicious Google root certificate that my RC
     Validity:           2015-07-21 23:05:08 -> 2020-07-20 23:05:08 
     Usage:              Enabled for all purposes
 
+<IMG SRC=http://i.imgur.com/u6JMW75.png>
 
 Checking against the official trust stores, it quickly became obvious this was a forged root certificate. 
 
