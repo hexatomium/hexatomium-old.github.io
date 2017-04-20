@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Rogue Google Root Certificates Seen in the Wild
+title: Fake Google Root Certificates Seen in the Wild
 comments: true
 ---
 
 I've received user reports about a suspicious Google root certificate that my RCC scanner picked up on their Windows systems.  The details of the root cert are as follows:
 
-    Sha1 thumbprint: 33FCD70343BBE07972D73CDEFDEB3C9F4DCEFE28 
-    Validity: 2015-07-21 23:05:08 -> 2020-07-20 23:05:08 
-    Usage: Enabled for all purposes
+    Sha1 thumbprint:    33FCD70343BBE07972D73CDEFDEB3C9F4DCEFE28 
+    Validity:           2015-07-21 23:05:08 -> 2020-07-20 23:05:08 
+    Usage:              Enabled for all purposes
 
 Checking against the official trust stores, it quickly became obvious this was a forged root certificate. 
 
