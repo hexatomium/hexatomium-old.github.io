@@ -10,6 +10,8 @@ I've received user reports about a suspicious Google root certificate that my RC
     Validity:           2015-07-21 23:05:08 -> 2020-07-20 23:05:08 
     Usage:              Enabled for all purposes
 
+<_IMG SRC=http://i.imgur.com/u3Z20f.png>
+
 Checking against the official trust stores, it quickly became obvious this was a forged root certificate. 
 
 After some more research I discovered a whole bunch of shady installers for popular software  
@@ -28,6 +30,6 @@ So far it seems the root has been primarily used to issue Authenticode certifica
  
 What I could not find out with my limited resources is how it gets added to the certificate stores of some PCs in the first place.
 
-Be vigilant!
+Both Google and Microsoft security were notified. 
 
-Note: Both Google and Microsoft security were notified. 
+Stay safe! 
