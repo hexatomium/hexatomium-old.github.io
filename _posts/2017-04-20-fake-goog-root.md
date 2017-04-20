@@ -19,7 +19,7 @@ that have digital signatures chaining up to the above root.  A few examples incl
     0b01e26a59e7c37089277b71a0fd1f62	Pepper_Flash_Player_19.0.0.185.plugin.paf.exe
     9e7ab1c2046f8af7f1c80ad8357accb1	officeportable_9.1.0.5217_multilingual_rev.4.paf.exe
     c4e9005a5ca9bf03f0d74cfe389ba120	JDownloaderPortable_2.0.paf.exe
-    27236776af91c15d318422303ff610fe	EverythingPortable_x.x.x_32bit_64bit_Multilingual_Rev.1_online.paf.exe 
+    27236776af91c15d318422303ff610fe	EverythingPortable_..._Multilingual_Rev.1_online.paf.exe 
     3733bbb42d9d2c9c72f99ab33eb0e385    easeus data recovery wizard te x86+x64 9.5.0.paf.exe
     21d7c80baf93c2bc7fe896a10fc3b697	ChromePortable.exe
 
