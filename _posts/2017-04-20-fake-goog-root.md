@@ -36,3 +36,5 @@ What I could not find out with my limited resources is how it gets added to the 
 Both Google and Microsoft security were notified. 
 
 Stay safe! 
+
+Edit 1: There are unconfirmed reports of a second certificate, mostly similar to the above but with a different thumbprint.
