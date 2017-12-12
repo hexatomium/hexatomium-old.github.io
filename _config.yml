@@ -18,6 +18,7 @@ author:
   url:            https://twitter.com/hexatomium
 
 paginate:         5
+theme: jekyll-theme-tactile
 
 # Custom vars
 version:          2.1.0
